@@ -55,8 +55,7 @@ Tap any book cover to open the Reader.
 *   **Tags & Ratings**: Tap the **Tag Icon** in the top toolbar to Rate the book (1-5 stars) or add Custom Tags (e.g., "Favorite", "To Read").
 *   **Zoom**: Double-tap or pinch to zoom in on details.
   
-<img width="970" height="746" alt="Screenshot 2026-01-09 155456" src="https://github.com/user-attachments/assets/bd2a5ca4-2fe5-4f4a-8a96-f22e18168389" />
-
+![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/bd2a5ca4-2fe5-4f4a-8a96-f22e18168389)
 
 ### Settings & Customization
 While reading, tap the **Settings (Gear)** icon to:
@@ -84,7 +83,8 @@ Combine multiple issues into a single specific volume:
 2. Tap the **Tool** icon and select **Merge**. Sort the files in order.
 3. The app will combine them into a single CBZ/EPUB file.
 
-![Screenshot 2026-01-09 145132](https://github.com/user-attachments/assets/8dc39219-b39e-49e3-b891-35f963d62d34" />
+![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/2b47be20-4613-4014-8a6a-9cbc9b0c06ab)
+
 
 
 ## 5. Pro Version
