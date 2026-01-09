@@ -35,15 +35,6 @@ To add a folder from your device:
 3. Browse and select the folder containing your EPUB, CBZ, or PDF files.
 4. The folder will appear in the "Pinned Folders" list.
 
-### Adding Network (SMB) Folders
-Access your collection from a NAS or PC:
-1. Open the Drawer and tap **Add SMB Folder** (if available) or look for network options.
-2. Enter your server details (IP, Share Name, Username, Password).
-3. Once connected, browse to your comic folder.
-4. Long-press the folder in the drawer to **Scan** content into your local index for faster access.
-
-![SMB Login Dialog Placeholder](placeholder)
-
 ### Pinned Folders & Defaults
 *   **Default Library**: Tap the Heart icon next to a folder in the drawer to set it as your default. The app will open this folder automatically on launch.
 *   **Remove Folder**: Tap the 'X' to unpin a folder.
@@ -62,8 +53,8 @@ Tap any book cover to open the Reader.
 ### Settings & Customization
 While reading, tap the **Settings (Gear)** icon to:
 *   Adjust **Brightness**.
-*   Toggle **Reading Direction** (Left-to-Right or Right-to-Left for Manga).
-*   Change **Fit Mode** (Fit Width, Fit Height, or Cover).
+*   Toggle **Reading Direction** (Page or Continuous).
+*   Change **Fit Mode** (Fit Width, Fit Height, or Contain).
 
 ## 4. Tools: Compression & Merging
 BiblioFuse includes powerful tools to optimize your collection.
@@ -73,15 +64,15 @@ Reduce file size to save space:
 1. Long-press a comic in the library to enter **Selection Mode**.
 2. Select multiple files if desired.
 3. Tap the **Compression Tool** icon.
-4. Choose your compression level and output format.
-5. Tap **Start** to process in the background.
+4. Choose your compression level for the output format.
+5. Tap **Start** to process the file(s).
 
 ![Compression Tool Placeholder](placeholder)
 
 ### Merging Files
 Combine multiple issues into a single specific volume:
 1. Select multiple files in order.
-2. Tap the **Tool** icon and select **Merge**.
+2. Tap the **Tool** icon and select **Merge**. Sort the files in order.
 3. The app will combine them into a single CBZ/EPUB file.
 
 ## 5. Pro Version
@@ -91,7 +82,6 @@ BiblioFuse offers a Pro tier for power users:
 
 To upgrade, open the Drawer and tap **Upgrade to Pro**.
 
-*(Note: In the current version, you can toggle "Pro Mode" for testing purposes in the drawer).*
 
 ## 6. Settings & Legal
 Access global settings from the Drawer:
@@ -101,3 +91,4 @@ Access global settings from the Drawer:
 *   **Version Info**: Check your current app version.
 
 ![Drawer Settings Placeholder](placeholder)
+
