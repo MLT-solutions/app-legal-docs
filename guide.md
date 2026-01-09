@@ -39,6 +39,11 @@ To add a folder from your device:
 *   **Default Library**: Tap the Heart icon next to a folder in the drawer to set it as your default. The app will open this folder automatically on launch.
 *   **Remove Folder**: Tap the 'X' to unpin a folder.
 
+### Filtering & Organization
+*   **Filter by Format**: Tap the **Filter Icon** to show only EPUB or CBZ/Archive files.
+*   **Filter by Rating**: Use the same Filter menu to show books with a specific Star Rating (1-5).
+*   **Filter by Tags**: Tap the **Tag (#) Icon** to select one or more custom tags to filter your view.
+
 ## 3. Reading Experience
 
 Tap any book cover to open the Reader.
@@ -46,6 +51,7 @@ Tap any book cover to open the Reader.
 ### Reader Controls
 *   **Turn Pages**: Tap the **Right** edge (Next) or **Left** edge (Previous).
 *   **Menu**: Tap the **Center** of the screen to show/hide the toolbar and scrubber.
+*   **Tags & Ratings**: Tap the **Tag Icon** in the top toolbar to Rate the book (1-5 stars) or add Custom Tags (e.g., "Favorite", "To Read").
 *   **Zoom**: Double-tap or pinch to zoom in on details.
 
 ![Reader Interface Placeholder](placeholder)
@@ -91,4 +97,5 @@ Access global settings from the Drawer:
 *   **Version Info**: Check your current app version.
 
 ![Drawer Settings Placeholder](placeholder)
+
 
