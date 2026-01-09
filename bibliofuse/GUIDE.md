@@ -54,6 +54,8 @@ Tap any book cover to open the Reader.
 *   **Menu**: Tap the **Center** of the screen to show/hide the toolbar and scrubber.
 *   **Tags & Ratings**: Tap the **Tag Icon** in the top toolbar to Rate the book (1-5 stars) or add Custom Tags (e.g., "Favorite", "To Read").
 *   **Zoom**: Double-tap or pinch to zoom in on details.
+  
+<img width="970" height="746" alt="Screenshot 2026-01-09 155456" src="https://github.com/user-attachments/assets/bd2a5ca4-2fe5-4f4a-8a96-f22e18168389" />
 
 
 ### Settings & Customization
