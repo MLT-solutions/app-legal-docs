@@ -13,5 +13,6 @@ DEPLOYMENT INSTRUCTIONS (THE "STUDIO" SWITCH)
    * BiblioFuse Privacy: https://MLT-solutions.github.io/app-legal-docs/bibliofuse/PRIVACY
    * BiblioFuse Terms:   https://MLT-solutions.github.io/app-legal-docs/bibliofuse/TERMS
    * BiblioFuse Support: https://MLT-solutions.github.io/app-legal-docs/bibliofuse/SUPPORT
+   * BiblioFuse Guide: https://MLT-solutions.github.io/app-legal-docs/bibliofuse/GUIDE
 
 Note: GitHub Pages automatically renders markdown files as HTML. The links above will work cleanly.
