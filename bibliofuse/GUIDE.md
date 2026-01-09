@@ -86,7 +86,6 @@ Combine multiple issues into a single specific volume:
 ![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/2b47be20-4613-4014-8a6a-9cbc9b0c06ab)
 
 
-
 ## 5. Pro Version
 BiblioFuse offers a Pro tier for power users:
 *   **Ad-Free Experience**: Remove all banner and interstitial ads.
