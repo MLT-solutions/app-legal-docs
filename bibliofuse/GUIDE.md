@@ -2,7 +2,7 @@
 
 Welcome to **BiblioFuse**, your ultimate comic and ebook manager. This guide covers everything from setting up your library to using advanced tools like compression and merging.
 
-![BiblioFuse Banner Placeholder](placeholder)
+<img width="1527" height="587" alt="Screenshot 2026-01-09 155028" src="https://github.com/user-attachments/assets/940019c0-ea41-44d8-b6a9-d83a9f53662b" />
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -24,7 +24,8 @@ Welcome to **BiblioFuse**, your ultimate comic and ebook manager. This guide cov
 ## 1. Getting Started
 When you first launch BiblioFuse, your library will be empty. You need to tell the app where your books and comics are stored.
 
-![Home Screen Placeholder](placeholder)
+<img width="436" height="978" alt="Screenshot 2026-01-09 145605" src="https://github.com/user-attachments/assets/55dd9b09-2fb1-447e-8af2-22a171f21896" />
+
 
 ## 2. Managing Your Library
 
@@ -54,7 +55,6 @@ Tap any book cover to open the Reader.
 *   **Tags & Ratings**: Tap the **Tag Icon** in the top toolbar to Rate the book (1-5 stars) or add Custom Tags (e.g., "Favorite", "To Read").
 *   **Zoom**: Double-tap or pinch to zoom in on details.
 
-![Reader Interface Placeholder](placeholder)
 
 ### Settings & Customization
 While reading, tap the **Settings (Gear)** icon to:
@@ -73,13 +73,17 @@ Reduce file size to save space:
 4. Choose your compression level for the output format.
 5. Tap **Start** to process the file(s).
 
-![Compression Tool Placeholder](placeholder)
+<img width="430" height="966" alt="Screenshot 2026-01-09 145105" src="https://github.com/user-attachments/assets/a5b1c925-9339-4230-88e9-f2e053554409" />
+
 
 ### Merging Files
 Combine multiple issues into a single specific volume:
 1. Select multiple files in order.
 2. Tap the **Tool** icon and select **Merge**. Sort the files in order.
 3. The app will combine them into a single CBZ/EPUB file.
+
+<img width="429" height="967" alt="Screenshot 2026-01-09 145132" src="https://github.com/user-attachments/assets/8dc39219-b39e-49e3-b891-35f963d62d34" />
+
 
 ## 5. Pro Version
 BiblioFuse offers a Pro tier for power users:
@@ -96,6 +100,6 @@ Access global settings from the Drawer:
 *   **Privacy Policy**: View our data handling policy (link at bottom of drawer).
 *   **Version Info**: Check your current app version.
 
-![Drawer Settings Placeholder](placeholder)
+
 
 
