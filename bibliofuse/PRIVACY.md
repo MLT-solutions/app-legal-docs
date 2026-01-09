@@ -16,7 +16,7 @@ The App uses third-party services that may collect information used to identify 
 ## 3. Permissions
 The App requires the following permissions to function:
 *   **Storage Access (Read & Write):** Required to open, read, and manage your book files.
-*   **Foreground Service:** Required to process large files (compression/conversion) reliably in the background without interruption.
+
 
 ## 4. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
