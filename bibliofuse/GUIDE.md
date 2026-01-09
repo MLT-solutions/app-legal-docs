@@ -100,6 +100,7 @@ Access global settings from the Drawer:
 *   **App Theme**: Switch between Light, Dark, or System Default.
 *   **Language**: Change the interface language.
 *   **Privacy Policy**: View our data handling policy (link at bottom of drawer).
+*   **Guide**: View our user guide (link at bottom of drawer).
 *   **Version Info**: Check your current app version.
 
 
