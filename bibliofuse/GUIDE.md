@@ -2,7 +2,7 @@
 
 Welcome to **BiblioFuse**, your ultimate comic and ebook manager. This guide covers everything from setting up your library to using advanced tools like compression and merging.
 
-<img width="1527" height="587" alt="Screenshot 2026-01-09 155028" src="https://github.com/user-attachments/assets/940019c0-ea41-44d8-b6a9-d83a9f53662b" />
+![Screenshot 2026-01-09 155028](https://github.com/user-attachments/assets/940019c0-ea41-44d8-b6a9-d83a9f53662b)
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -24,7 +24,7 @@ Welcome to **BiblioFuse**, your ultimate comic and ebook manager. This guide cov
 ## 1. Getting Started
 When you first launch BiblioFuse, your library will be empty. You need to tell the app where your books and comics are stored.
 
-<img width="436" height="978" alt="Screenshot 2026-01-09 145605" src="https://github.com/user-attachments/assets/55dd9b09-2fb1-447e-8af2-22a171f21896" />
+![Screenshot 2026-01-09 145605](https://github.com/user-attachments/assets/55dd9b09-2fb1-447e-8af2-22a171f21896)
 
 
 ## 2. Managing Your Library
@@ -73,7 +73,7 @@ Reduce file size to save space:
 4. Choose your compression level for the output format.
 5. Tap **Start** to process the file(s).
 
-<img width="430" height="966" alt="Screenshot 2026-01-09 145105" src="https://github.com/user-attachments/assets/a5b1c925-9339-4230-88e9-f2e053554409" />
+![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/a5b1c925-9339-4230-88e9-f2e053554409)
 
 
 ### Merging Files
@@ -82,7 +82,7 @@ Combine multiple issues into a single specific volume:
 2. Tap the **Tool** icon and select **Merge**. Sort the files in order.
 3. The app will combine them into a single CBZ/EPUB file.
 
-<img width="429" height="967" alt="Screenshot 2026-01-09 145132" src="https://github.com/user-attachments/assets/8dc39219-b39e-49e3-b891-35f963d62d34" />
+![Screenshot 2026-01-09 145132](https://github.com/user-attachments/assets/8dc39219-b39e-49e3-b891-35f963d62d34" />
 
 
 ## 5. Pro Version
