@@ -40,6 +40,15 @@ To add a folder from your device:
 *   **Default Library**: Tap the Heart icon next to a folder in the drawer to set it as your default. The app will open this folder automatically on launch.
 *   **Remove Folder**: Tap the 'X' to unpin a folder.
 
+🔒 **Privacy Note:** Bibliofuse is a local-only reader. No data (book files, reading habits, or metadata) is transferred over the internet. Everything stays on your device.
+
+💡 If you added a content folder, open side bar and tap on it again. If **nothing showed up**, you may have missed the prompt earlier. If you want to try this feature out, you can enable it manually:
+1.	Go to your phone's Settings > search “all files access” >Apps > Bibliofuse.
+2.	Choose "Allow management of all files".
+
+
+
+
 ### Filtering & Organization
 *   **Filter by Format**: Tap the **Filter Icon** to show only EPUB or CBZ/Archive files.
 *   **Filter by Rating**: Use the same Filter menu to show books with a specific Star Rating (1-5).
