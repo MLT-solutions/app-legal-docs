@@ -106,8 +106,8 @@ Combine multiple issues into a single specific volume:
 
 ## 5. Premium Version
 BiblioFuse offers a Pro tier for power users:
-<img width="540" height="576" alt="Screenshot 2026-01-29 152130" src="https://github.com/user-attachments/assets/ad627881-42a9-4bd5-a60c-72089ffead02" />
 
+![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/ad627881-42a9-4bd5-a60c-72089ffead02)
 
 To upgrade, open the Drawer and tap **Go Premium**.
 
