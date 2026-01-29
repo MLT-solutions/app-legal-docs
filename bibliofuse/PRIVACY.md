@@ -11,7 +11,7 @@ We **do not** collect, store, or share any personal data or user-generated conte
 **Third-Party Services:**
 The App uses third-party services that may collect information used to identify your device:
 *   **Google Play Services:** For app updates and security.
-*   **AdMob (Free Version Only):** To serve advertisements. AdMob may collect device identifiers (advertising ID) to provide personalized ads.
+
 
 ## 3. Permissions
 The App requires the following permissions to function:
