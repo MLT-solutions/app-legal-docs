@@ -2,7 +2,17 @@
 
 Welcome to **BiblioFuse**, your ultimate comic and ebook manager. This guide covers everything from setting up your library to using advanced tools like compression and merging.
 
-![Screenshot 2026-01-09 155028](https://github.com/user-attachments/assets/940019c0-ea41-44d8-b6a9-d83a9f53662b)
+## 📚 What is BiblioFuse?
+
+BiblioFuse is a powerful cross-platform (iOS & Android) application designed to:
+*   **Read**: Support for CBZ, CBR, ZIP and EPUB formats.
+*   **Manage**: Organize your local and cloud libraries with metadata and tags.
+*   **Optimize**: Tools to compress, merge, and convert comic archives to save space.
+*   **Sync**: Seamlessly sync reading progress and metadata across devices using iCloud (iOS) or local backups.
+
+
+![1](https://github.com/user-attachments/assets/a1004645-e1de-4d5d-85d8-e8b3abcb524a)
+
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -64,7 +74,7 @@ Tap any book cover to open the Reader.
 *   **Tags & Ratings**: Tap the **Tag Icon** in the top toolbar to Rate the book (1-5 stars) or add Custom Tags (e.g., "Favorite", "To Read").
 *   **Zoom**: Double-tap or pinch to zoom in on details.
   
-![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/bd2a5ca4-2fe5-4f4a-8a96-f22e18168389)
+
 
 ### Settings & Customization
 While reading, tap the **Settings (Gear)** icon to:
@@ -94,12 +104,12 @@ Combine multiple issues into a single specific volume:
 
 ![Screenshot 2026-01-09 145105](https://github.com/user-attachments/assets/2b47be20-4613-4014-8a6a-9cbc9b0c06ab)
 
-## 5. Pro Version
+## 5. Premium Version
 BiblioFuse offers a Pro tier for power users:
-*   **Ad-Free Experience**: Remove all banner and interstitial ads.
-*   **Support Development**: Help us add more features!
+<img width="540" height="576" alt="Screenshot 2026-01-29 152130" src="https://github.com/user-attachments/assets/ad627881-42a9-4bd5-a60c-72089ffead02" />
 
-To upgrade, open the Drawer and tap **Upgrade to Pro**.
+
+To upgrade, open the Drawer and tap **Go Premium**.
 
 
 ## 6. Settings & Legal
@@ -110,6 +120,46 @@ Access global settings from the Drawer:
 *   **Guide**: View our user guide (link at bottom of drawer).
 *   **Version Info**: Check your current app version.
 
+---
 
+## ☁️ Cloud Sync & Backups
+
+### iCloud Sync (iOS)
+*   **How it works**: BiblioFuse automatically syncs your reading positions and metadata (ratings/tags) via iCloud Drive.
+*   **Setup**: Ensure iCloud Drive is enabled for BiblioFuse in iOS Settings. No manual setup required.
+*   **Status**: Check the "iCloud" section in the Drawer Menu to see synced books.
+
+### Auto-Backup
+*   **What is backed up?**: Your entire library database (reading progress, tags, ratings). Book files themselves are NOT backed up (too large).
+*   **How to enable**: This is a **Premium** feature. It runs automatically when the app goes to the background.
+*   **Location**:
+    *   **iOS**: `Files app > iCloud Drive > BiblioFuse > Metadata`
+    *   **Android**: `Internal Storage > Documents > BiblioFuse > Metadata`
+*   **Retention**: The app keeps the 4 most recent backups + the largest backup from the past.
+
+### Manual Backup / Restore
+*   **Backup**: Go to `Drawer > Backup > Export Database`. Save the `.db` file anywhere.
+*   **Restore**: Go to `Drawer > Backup > Import Database`. Select a backup file. **Warning**: This replaces your current data.
+
+
+---
+
+## ❓ FAQ (Frequently Asked Questions)
+
+### Q: Where can I find my Auto-Backup files?
+*   **iOS**: Open the "Files" app, navigated to `iCloud Drive` -> `BiblioFuse` -> `Metadata`.
+*   **Android**: Use a File Manager to go to `Documents/BiblioFuse/Metadata`.
+
+### Q: Why doesn't EPUB support WebP compression?
+EPUB is a strict standard. Most e-readers (iBooks, Google Play Books) do not support the modern WebP image format inside EPUBs. To ensure your generated EPUBs work everywhere, BiblioFuse strictly enforces **JPG** for EPUB output. If you want maximum compression (WebP), please use **CBZ** format.
+
+### Q: How do I reindex a folder that is showing wrong covers?
+Open the Left Drawer Menu (hamburger icon) inside the Library tab. Find the folder in the list, click the "Three Dots" (⋮) icon next to it, and select **"Reindex Folder"**. This will clear the cache for that folder and re-scan all files.
+
+### Q: Can I run BiblioFuse on Mac or Windows?
+Currently, BiblioFuse is optimized for iOS and Android mobile devices. A desktop version is not yet available.
+
+### Q: What is "Peek Mode"?
+Peek Mode is a unique one-handed navigation style designed by BiblioFuse. Instead of full page turns, it allows you to slide your thumb to "peek" at the next panel or page, making it easier to read on large phones with just one hand.
 
 
