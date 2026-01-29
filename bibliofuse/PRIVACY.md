@@ -24,7 +24,7 @@ The App facilitates synchronization of your content (such as EPUBs, PDFs, and Co
 The App offers paid features via one-time purchases ("Lifetime") and subscriptions ("Monthly", "Yearly").
 
 * **Payment Processing:** All financial transactions are processed directly by the **Apple App Store** or **Google Play Store**. We do not collect, store, or have access to your credit card information or billing details.  
-* **Transaction Data:** We may receive anonymous transaction receipts to validate your "Pro" status. This data does not include your personal identity.
+* **Transaction Data:** We may receive anonymous transaction receipts to validate your "Premium" status. This data does not include your personal identity.
 
 ## **4\. Third-Party Services**
 
