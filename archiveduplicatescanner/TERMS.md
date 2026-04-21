@@ -29,7 +29,7 @@ Subject to your compliance with these Terms, MLOGICTECH grants you a **personal,
 
 **Purchase:** After the trial expires, a **one-time purchase of USD 19.99** is required to continue using the application. This is a perpetual licence — there are no subscriptions, recurring fees, or feature locks after purchase.
 
-**Refunds:** Refund requests are handled by the respective app store (Apple App Store or Microsoft Store) according to their policies. Contact support@mlogictech.com if you purchased directly.
+**Refunds:** Refund requests are handled by the respective app store (Apple App Store or Microsoft Store) according to their policies. 
 
 ---
 
