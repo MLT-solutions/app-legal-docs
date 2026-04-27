@@ -19,3 +19,6 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/archiveduplicatescanner/PRIVACY)
 *   [Terms of Service](https://mlt-solutions.github.io/app-legal-docs/archiveduplicatescanner/TERMS)
 
+### SmartDecrypt PDF ZIP (https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP/TERMS)
