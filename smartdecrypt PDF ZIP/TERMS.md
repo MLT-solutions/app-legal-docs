@@ -15,7 +15,7 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Apple is not a party to this agreement and bears no responsibility for the application or its content.
 
 **iOS & macOS — Free Tier and Premium Upgrade:**
-The iOS and macOS versions are free to download. A **Premium upgrade (USD 9.99, one-time)** is available via in-app purchase, unlocking batch decryption and auto-cycle password features. The upgrade is a **non-consumable purchase** and supports **Apple Family Sharing** — one purchase covers all eligible family members. A **30-day free trial** of Premium is granted automatically on first launch. Trial status is synced across your Apple devices via iCloud Key-Value Store.
+The iOS and macOS versions are free to download. A **Premium upgrade (USD 9.99, one-time)** is available via in-app purchase, unlocking batch decryption and auto-cycle password features. The upgrade is a **non-consumable purchase**. A **7-day free trial** of Premium is available through Apple StoreKit. Trial and purchase status are synced across your Apple devices through your Apple ID.
 
 The sections below apply primarily to the **Windows version** sold directly.
 
@@ -92,7 +92,7 @@ SmartDecrypt PDF ZIP is built on open-source components. Their respective licenc
 |-----------|---------|---------|
 | Rust standard library and crates | MIT / Apache-2.0 | Core runtime |
 | pdfcpu | Apache-2.0 | PDF decryption |
-| zip-rs | MIT | ZIP/CBZ decryption |
+| zip-rs | MIT | ZIP decryption |
 | windows-rs | MIT / Apache-2.0 | Windows API bindings |
 
 Full licence texts are included in the application bundle.

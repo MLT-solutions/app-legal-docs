@@ -9,7 +9,7 @@
 
 ## Summary
 
-SmartDecrypt PDF ZIP is a **privacy-first** application. It decrypts password-protected PDF, ZIP, and CBZ files entirely on your device using a native Rust library. No files or passwords are ever transmitted to any server. The only data that leaves your device is a small iCloud record used to sync your free trial status across your own Apple devices (iOS/macOS only).
+SmartDecrypt PDF ZIP is a **privacy-first** application. It decrypts password-protected PDF, ZIP, and 7z files entirely on your device using a native Rust library. No files or passwords are ever transmitted to any server. The only data that leaves your device is Apple StoreKit purchase or trial entitlement information used to validate your access on your own Apple devices (iOS/macOS only).
 
 ---
 
@@ -35,17 +35,17 @@ The app stores the following data for its own operation.
 | Password profiles | Windows: `%APPDATA%\SmartDecrypt\profiles.json` | Automatic file matching and decryption |
 | App preferences | iOS/macOS: App Group container (`group.com.mlogictech.smartdecrypt`) | Output folder, notification settings |
 | App preferences | Windows: `%APPDATA%\SmartDecrypt\settings.json` | Output folder preferences |
-| Trial start date | iOS/macOS: iCloud Key-Value Store (synced via your Apple ID) | Tracks your 30-day free trial across your Apple devices |
+| Trial entitlement | iOS/macOS: Apple StoreKit (synced via your Apple ID) | Tracks your 7-day free trial across your Apple devices |
 | Trial counter | Windows: `%APPDATA%\SmartDecrypt\usage.json` | Tracks free trial usage (1-month trial) |
 | License key | Windows: `%APPDATA%\SmartDecrypt\license.json` | Stores your purchased license key locally |
 
-### iCloud Key-Value Store (iOS & macOS)
+### Apple StoreKit (iOS & macOS)
 
-The app stores a single value — your trial start date — in **iCloud Key-Value Store**. This is used solely to sync your 30-day free trial status across your iPhone, iPad, and Mac when signed in to the same Apple ID.
+The app uses **Apple StoreKit** to validate Premium purchases, restore purchases, and track your 7-day trial entitlement across your iPhone, iPad, and Mac when signed in to the same Apple ID.
 
-- We do not read, write, or access any other iCloud data
-- This value is managed by Apple's iCloud infrastructure and is subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
-- You can reset this by signing out of iCloud, but doing so will also reset your trial period
+- We do not receive your payment details
+- StoreKit entitlement information is managed by Apple and is subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
+- Purchase and trial restoration is handled through your Apple ID
 
 You can delete all app data at any time by uninstalling the app (see Section 7).
 
@@ -69,8 +69,7 @@ All decryption is performed by a native Rust library running entirely on your de
 
 The app makes no automatic network connections to our servers. The only network activity is:
 
-- **iOS/macOS — iCloud KV sync:** The trial start date is synced via iCloud Key-Value Store using Apple's infrastructure. This occurs automatically when iCloud is enabled.
-- **iOS/macOS — StoreKit:** Apple StoreKit is used to validate your in-app purchase and restore purchases. This is handled entirely by Apple — we do not receive payment details.
+- **iOS/macOS — StoreKit:** Apple StoreKit is used to validate your in-app purchase, restore purchases, and manage trial entitlement. This is handled entirely by Apple — we do not receive payment details.
 - **Windows:** License keys are validated **offline** using a cryptographic signature (Ed25519). No network call is made for license validation.
 - **Help links:** Tapping "Privacy Policy" or "Terms" in the app opens your browser to this page.
 
@@ -83,9 +82,8 @@ The app makes no automatic network connections to our servers. The only network 
 - **Share Extension (iOS):** Files shared to SmartDecrypt via the iOS Share Sheet are processed in an extension sandbox. File data is not retained after decryption completes.
 - **Keychain:** Passwords and profiles are stored in the iOS/macOS system Keychain, protected by your device's security (Face ID / Touch ID / password).
 - **App Group:** The main app and Share Extension share data via the App Group `group.com.mlogictech.smartdecrypt`. This data remains on-device.
-- **iCloud KV Store:** Trial start date is synced via iCloud so your 30-day trial is consistent across all your Apple devices. Requires iCloud to be enabled on your device.
+- **StoreKit entitlement:** Trial and purchase status are synced by Apple so your 7-day trial and Premium access are consistent across your Apple devices.
 - **Purchase validation:** Handled by Apple StoreKit. We receive an anonymous receipt token only — no personal or billing information.
-- **Family Sharing:** The Premium upgrade supports Apple Family Sharing. If a family member purchases Premium, other family members can access it at no additional cost. Family membership is managed entirely by Apple.
 
 ### Windows
 
@@ -100,7 +98,6 @@ The app makes no automatic network connections to our servers. The only network 
 | Service | Platform | Purpose | Data Shared |
 |---------|----------|---------|-------------|
 | Apple StoreKit | iOS, macOS | In-app purchase and restore | Anonymous receipt token only |
-| Apple iCloud | iOS, macOS | Trial start date sync | One date value stored in iCloud KV; governed by Apple's Privacy Policy |
 | Paddle | Windows | Payment processing at point of purchase | Handled by Paddle — we do not receive card details |
 
 We do not use any analytics SDKs, advertising networks, or crash reporting services.
