@@ -25,7 +25,7 @@ Subject to your compliance with these Terms, MLOGICTECH grants you a **personal,
 
 ## 2. Pricing and Trial
 
-**Free Trial:** The application may be used free of charge for **30 days** from the date of first launch. All features are fully available during the trial period.
+**Free Trial:** The application may be used free of charge for **x days** from the date of first launch. All features are fully available during the trial period.
 
 **Purchase:** After the trial expires, a **one-time purchase of USD 19.99** is required to continue using the application. This is a perpetual licence — there are no subscriptions, recurring fees, or feature locks after purchase.
 
