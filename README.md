@@ -22,7 +22,7 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 ### SmartDecrypt PDF ZIP (https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP/PRIVACY)
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP/TERMS)
-*   [Readme](https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP/README)
+*   [Readme](https://mlt-solutions.github.io/app-legal-docs/smartdecrypt%20PDF%20ZIP/)
 
 ### PaperClerk (https://mlt-solutions.github.io/app-legal-docs/paperclerk)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/paperclerk/PRIVACY)
