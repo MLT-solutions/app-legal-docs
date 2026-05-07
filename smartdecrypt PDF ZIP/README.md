@@ -57,24 +57,31 @@ Available as a **universal purchase** for both iPhone/iPad and Mac. Buy once, us
 ### Smart Pattern Matching
 Define a pattern once based on a filename prefix, suffix, or keyword. SmartDecrypt remembers it and automatically applies the right password to every matching file — no manual selection required.
 
-### iOS
+### iOS & macOS
 - Open files directly in the app
 - Send files via the **iOS Share Sheet** from Files, Mail, or any app
+- **Drag and drop** files into the unlock queue on Mac
+- Choose files from Finder or the file picker
+- Pick same-folder output or select a custom destination folder on Mac
 - Background decryption keeps the UI responsive
 
-### macOS
-- **Drag and drop** files into the unlock queue
-- Choose files from Finder
-- Pick same-folder output or select a custom destination folder
+### Windows PC
+- **Right-click context menu** — right-click any file in Explorer and select "Unlock with SmartDecrypt" for instant processing
+- **Batch processing** — select multiple files at once and decrypt them in a single operation
+- **Interactive prompts** — if a file doesn't match a saved pattern, a clean GUI prompts for the password and offers to save it as a new profile
 
 ### Security
-- Passwords stored in the **system Keychain** — never in plain text
-- All decryption runs **locally on device** — your files are never uploaded
+- Passwords stored in platform-native secure storage — **Keychain** on Apple, **Windows Credential Manager** on PC — never in plain text
+- All decryption runs **locally on your device** — your files are never uploaded
 - Non-destructive PDF unlocking: the original is preserved as `*_original.pdf`
 
 ---
 
 ## Free vs Pro
+
+### iPhone, iPad & Mac
+
+Start for free with single-file unlocking, then activate a **7-day free trial** to experience full Pro features before purchasing.
 
 | | Free | Pro |
 |---|:---:|:---:|
@@ -85,7 +92,20 @@ Define a pattern once based on a filename prefix, suffix, or keyword. SmartDecry
 | Batch file loading | — | ✓ |
 | Automatic password cycling | — | ✓ |
 
-**SmartDecrypt Pro** is a one-time purchase of **USD 9.99** — no subscription, no recurring fees. Universal across iOS and macOS.
+### Windows PC
+
+The PC app automatically starts a **30-day full Pro trial** — no free-mode restrictions, no credit card required. Upgrade to Pro after the trial to keep all features.
+
+| | Trial (30 days) | Pro |
+|---|:---:|:---:|
+| Unlock PDF files | ✓ | ✓ |
+| Extract ZIP / 7z | ✓ | ✓ |
+| Save password patterns | ✓ | ✓ |
+| Batch file loading | ✓ | ✓ |
+| Automatic password cycling | ✓ | ✓ |
+| Right-click context menu | ✓ | ✓ |
+
+**SmartDecrypt Pro** is a one-time purchase of **USD 9.99** — no subscription, no recurring fees. Universal across iOS and macOS with the same Apple ID.
 
 ---
 
