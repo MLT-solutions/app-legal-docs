@@ -1,6 +1,6 @@
 # Terms of Service / End User License Agreement — ContentCue Browser
 
-**Last Updated:** 2026-05-22
+**Last Updated:** 2026-05-27
 **Developer / Licensor:** MLOGICTECH
 **Contact:** support@mlogictech.com
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/contentcue
@@ -64,13 +64,13 @@ MLOGICTECH does not process App Store refunds directly.
 
 ## 4. Acceptable Use
 
-ContentCue is a general-purpose web browser. You are solely responsible for the websites you visit and the content you access through the app. You agree not to use ContentCue to:
+ContentCue is a general-purpose web browser. The app does not load a third-party content website by default. You are solely responsible for the websites you choose to visit and the content you access through the app. You agree not to use ContentCue to:
 
 - Access, distribute, or download content you do not have the right to access
 - Circumvent paywalls or copyright protections
 - Engage in any unlawful activity
 
-ContentCue does not block, modify, or interfere with advertisements. It only saves your reading position and provides visual navigation aids.
+ContentCue does not host, provide, endorse, or claim ownership of third-party web content. Third-party websites may display their own branding, store badges, cookie notices, advertisements, or intellectual property. ContentCue does not block, modify, or interfere with advertisements. It only saves your reading position and provides visual navigation aids.
 
 ---
 

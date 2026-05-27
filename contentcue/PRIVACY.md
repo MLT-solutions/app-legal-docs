@@ -1,6 +1,6 @@
 # Privacy Policy — ContentCue Browser
 
-**Effective Date:** 2026-05-22
+**Effective Date:** 2026-05-27
 **Developer:** MLOGICTECH
 **Contact:** support@mlogictech.com
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/contentcue
@@ -9,16 +9,17 @@
 
 ## Summary
 
-ContentCue is a **privacy-first** reading browser. All browsing happens entirely on your device via Apple's WebKit engine. No browsing history, URLs, or scroll positions are ever transmitted to any server.
+ContentCue is a **privacy-first** reading browser. All browsing happens entirely on your device via Apple's WebKit engine. ContentCue does not load a third-party website by default; you choose the search or website address you want to open. No browsing history, URLs, cookies, or scroll positions are ever transmitted to us.
 
 ---
 
 ## 1. Data We Do NOT Collect
 
-We do not collect, store, or transmit:
+We do not collect, store on our servers, or transmit:
 
 - Browsing history or visited URLs
 - Scroll positions or reading progress
+- Cookies from websites you visit
 - Device identifiers, IP addresses, or location data
 - Crash reports or analytics
 - Personal information of any kind
@@ -35,6 +36,8 @@ The app stores the following data locally on your device. None of this is transm
 | Autoplay videos preference | UserDefaults | Remember your playback setting |
 | Resume on launch preference | UserDefaults | Remember your reading setting |
 | Last visited URL | UserDefaults | Resume reading on next launch |
+| Visited URL list | UserDefaults | Mark same-site links as new or already visited |
+| Bookmarks | UserDefaults | Save pages you choose to revisit |
 | Ad outline colour and style | UserDefaults | Remember your display preferences |
 | Auto-scroll interval | UserDefaults | Remember your reading mode setting |
 | Premium entitlement | Apple StoreKit | Pro access status across your Apple devices |
@@ -57,6 +60,8 @@ ContentCue offers an optional Pro upgrade via a one-time in-app purchase, handle
 
 ContentCue makes network requests only to load the web pages you explicitly navigate to. We do not make any requests to our own servers.
 
+The websites you visit may set their own cookies or show their own cookie notices inside the web page. Those cookies belong to the website you chose to visit and are handled by Apple's WebKit storage on your device. ContentCue does not read, collect, combine, sell, share, or use those cookies for tracking.
+
 The websites you visit have their own privacy policies, which apply to your interactions with those sites. ContentCue does not intercept, log, or transmit any of your web traffic.
 
 ---
@@ -73,7 +78,7 @@ All data is stored locally on your device. To remove it:
 
 iOS Settings → General → iPhone Storage → ContentCue → Delete App
 
-This removes all preferences and the last-visited URL from your device.
+This removes all preferences, bookmarks, local visited URL data, and the last-visited URL from your device.
 
 ---
 
