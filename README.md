@@ -4,6 +4,10 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 
 ## App Directory
 
+### BiblioFuse Grep Tag Reader (https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/TERMS)
+
 ### BiblioFuse Reader (https://mlt-solutions.github.io/app-legal-docs/bibliofuse)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/PRIVACY)
 *   [Guide](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/GUIDE)
