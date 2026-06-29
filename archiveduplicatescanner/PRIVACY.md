@@ -1,4 +1,4 @@
-# Privacy Policy — Archive Duplicate Scanner
+# Privacy Policy — Comic Duplicate Scanner
 
 **Effective Date:** 1 May 2025  
 **Developer:** MLOGICTECH  
@@ -9,7 +9,7 @@
 
 ## Summary
 
-Archive Duplicate Scanner is a **fully offline, local-only** application. It does not collect, transmit, or share any personal data, usage data, or file content. Everything the app touches stays on your device.
+Comic Duplicate Scanner is a **fully offline, local-only** application. It does not collect, transmit, or share any personal data, usage data, or file content. Everything the app touches stays on your device.
 
 ---
 
@@ -64,7 +64,7 @@ The app does **not** modify, upload, or copy your files. Only files you explicit
 
 ## 5. Third-Party Libraries
 
-Archive Duplicate Scanner is built on the following open-source libraries. None of these libraries perform any network requests or data collection when used within this app.
+Comic Duplicate Scanner is built on the following open-source libraries. None of these libraries perform any network requests or data collection when used within this app.
 
 | Library | License | Purpose |
 |---------|---------|---------|

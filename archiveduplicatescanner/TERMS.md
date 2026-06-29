@@ -1,5 +1,5 @@
 # Terms of Service and End User License Agreement (EULA)
-## Archive Duplicate Scanner
+## Comic Duplicate Scanner
 
 **Effective Date:** 1 May 2025  
 **Developer / Licensor:** MLOGICTECH  
@@ -19,7 +19,7 @@ Apple is not a party to this agreement and bears no responsibility for the appli
 
 ## 1. License Grant
 
-Subject to your compliance with these Terms, MLOGICTECH grants you a **personal, non-exclusive, non-transferable, revocable license** to install and use Archive Duplicate Scanner on devices you own or control, for your personal or internal business use.
+Subject to your compliance with these Terms, MLOGICTECH grants you a **personal, non-exclusive, non-transferable, revocable license** to install and use Comic Duplicate Scanner on devices you own or control, for your personal or internal business use.
 
 ---
 
