@@ -4,6 +4,11 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 
 ## App Directory
 
+### Kitty Gambit (https://mlt-solutions.github.io/app-legal-docs/kittygambit)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/kittygambit/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/kittygambit/TERMS)
+*   [Readme](https://mlt-solutions.github.io/app-legal-docs/kittygambit/)
+
 ### BiblioFuse Grep Tag Reader (https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/PRIVACY)
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/TERMS)
