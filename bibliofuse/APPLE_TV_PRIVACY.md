@@ -6,11 +6,12 @@
 
 ## Summary
 
-BiblioFuse for Apple TV is a Premium streaming companion for a BiblioFuse library
-hosted on your Mac or Windows PC. It is designed for CBZ/ZIP and CBR/RAR comic
-archives. The Apple TV app does not upload your library to Modern Logic Tech
-Solutions, does not use advertising or tracking SDKs, and does not collect analytics
-or telemetry.
+BiblioFuse for Apple TV is a companion app for privately streaming your personal
+library from your Mac or Windows PC over your local network.
+
+It is designed for CBZ/ZIP and CBR/RAR comic archives. The Apple TV app does not
+upload your library to Modern Logic Tech Solutions, does not use advertising or
+tracking SDKs, and does not collect analytics or telemetry.
 
 ## 1. Data We Do Not Collect
 
@@ -90,11 +91,8 @@ effective date above will be updated when material changes are published.
 
 ## 9. Contact
 
-For privacy questions, contact:
+For privacy questions, contact Modern Logic Tech Solutions (MLOGICTECH).
 
-**Email:** support@mlogictech.com  
-**Developer:** Modern Logic Tech Solutions (MLOGICTECH)
-
----
-
-*Published policy URL: https://mlt-solutions.github.io/app-legal-docs/bibliofuse/APPLE_TV_PRIVACY*
+**Contact email:** support@mlogictech.com  
+**Privacy Policy URL:** https://mlt-solutions.github.io/app-legal-docs/bibliofuse/APPLE_TV_PRIVACY  
+**Last Updated:** 2026-07-15
