@@ -93,6 +93,8 @@ effective date above will be updated when material changes are published.
 
 For privacy questions, contact Modern Logic Tech Solutions (MLOGICTECH).
 
-**Contact email:** support@mlogictech.com  
-**Privacy Policy URL:** https://mlt-solutions.github.io/app-legal-docs/bibliofuse/APPLE_TV_PRIVACY  
+**Contact email:** support@mlogictech.com
+
+**Privacy Policy URL:** https://mlt-solutions.github.io/app-legal-docs/bibliofuse/APPLE_TV_PRIVACY
+
 **Last Updated:** 2026-07-15
