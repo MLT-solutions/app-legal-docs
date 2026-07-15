@@ -2,6 +2,9 @@
 
 **Effective Date:** 2026-01-29
 
+**Apple TV:** The Apple TV streaming companion has a dedicated, platform-specific
+[Apple TV Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/APPLE_TV_PRIVACY).
+
 ## **1\. Introduction**
 
 BiblioFuse Reader ("the App") is provided by Modern Logic Tech Solutions ("we" or "us"). We prioritize your privacy and transparency.
