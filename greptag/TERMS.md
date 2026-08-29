@@ -1,6 +1,6 @@
-# Terms of Service / EULA — BiblioFuse Grep Tag Reader
+# Terms of Service / EULA — GrepTag
 
-**Last Updated:** 2026-06-14
+**Last Updated:** 2026-08-29
 **Developer:** MLOGICTECH
 **Contact:** support@mlogictech.com
 
@@ -12,7 +12,7 @@ This app is licensed to you under Apple's Standard End User License Agreement (E
 
 **https://www.apple.com/legal/internet-services/itunes/dev/stdeula/**
 
-By downloading or using BiblioFuse Grep Tag Reader, you agree to both Apple's Standard EULA and the additional terms below. If you do not agree, do not download or use the App.
+By downloading or using GrepTag, you agree to both Apple's Standard EULA and the additional terms below. If you do not agree, do not download or use the App.
 
 ---
 
@@ -30,15 +30,23 @@ You retain full ownership of all book files, tags, keyword profiles, and other c
 
 ## 4. Free Tier Limits
 
-The App is free to download and includes a limited free tier:
+The App is free to download. Grep scanning itself is unlimited on the free tier — there is no cap on the number of scans you run or the number of keywords you scan for. The free tier limits the following:
 
-| Feature | Free Limit |
-|---------|-----------|
-| Grep scans (lifetime) | 10 scans |
-| Keyword profiles | 1 profile |
-| Keywords per profile | 10 keywords |
+| Feature | Free | Pro |
+|---------|------|-----|
+| Grep scans | Unlimited | Unlimited |
+| Keywords per profile | Unlimited | Unlimited |
+| Saved grep profiles | 2 | Unlimited |
+| Unique tags | 5 | Unlimited |
+| EPUB cover extraction | Included | Included |
+| Import tag database | Included | Included |
+| TXT cover matching and URL fetch | — | Pro |
+| Moving files into folders | — | Pro |
+| Sync between devices | — | Pro |
+| Exporting the tag database | — | Pro |
+| Tag display customization | — | Pro |
 
-Unlimited access to all features requires a Pro purchase (see Section 5). Reader, manual tagging, file moves, and folder management are always free with no limit.
+Reading files in the built-in viewer and applying tags by hand are always free, within the tag limit above. Unlocking the Pro features requires a purchase (see Section 5).
 
 ---
 
@@ -100,4 +108,4 @@ We may update these Terms from time to time. The "Last Updated" date will reflec
 
 ---
 
-*Terms URL: https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/TERMS*
+*Terms URL: https://mlt-solutions.github.io/app-legal-docs/greptag/TERMS*

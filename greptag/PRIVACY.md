@@ -1,15 +1,15 @@
-# Privacy Policy — BiblioFuse Grep Tag Reader
+# Privacy Policy — GrepTag
 
-**Effective Date:** 2026-06-14
+**Effective Date:** 2026-08-29
 **Developer:** MLOGICTECH
 **Contact:** support@mlogictech.com
-**App Website:** https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread
+**App Website:** https://mlt-solutions.github.io/app-legal-docs/greptag
 
 ---
 
 ## Summary
 
-BiblioFuse Grep Tag Reader is a **privacy-first** app for keyword-scanning and tagging your local TXT and EPUB book files. All scanning, tagging, and file management happens entirely on your device. No files, tags, or personal data are ever transmitted to our servers.
+GrepTag is a **privacy-first** app for keyword-scanning and tagging your local TXT and EPUB book files. All scanning, tagging, and file management happens entirely on your device. No files, tags, or personal data are ever transmitted to our servers.
 
 ---
 
@@ -60,7 +60,7 @@ The app uses **Apple StoreKit 2** to validate Pro purchases and restore entitlem
 
 ## 3. File Access
 
-BiblioFuse Grep Tag Reader reads TXT and EPUB files you explicitly add to the library.
+GrepTag reads TXT and EPUB files you explicitly add to the library.
 
 - **macOS:** Files are accessed at the paths you select. The app stores absolute file paths locally and does not copy files unless you use the "Send to iCloud Sync" or "Move to Folder" feature.
 - **iOS:** Files are imported into the app's local Documents folder. You retain full control; the app does not upload them to any server.
@@ -81,7 +81,7 @@ The app uses the following open-source libraries. Neither makes any network conn
 
 ## 5. Network Access
 
-BiblioFuse Grep Tag Reader makes no automatic network connections to our servers. The only network activity is:
+GrepTag makes no automatic network connections to our servers. The only network activity is:
 
 - **Apple StoreKit:** Purchase validation and entitlement restoration. Handled entirely by Apple.
 - **iCloud (if Sync is used):** File transfers and snapshot sync via your personal iCloud account. We have no access to this data.
@@ -93,7 +93,7 @@ BiblioFuse Grep Tag Reader makes no automatic network connections to our servers
 
 All data is stored locally or in your own iCloud account. You can remove it by deleting the app.
 
-**iOS:** Settings → General → iPhone Storage → BiblioFuse Grep Tag Reader → Delete App
+**iOS:** Settings → General → iPhone Storage → GrepTag → Delete App
 
 **macOS:** Delete the app from Applications. SwiftData is stored in `~/Library/Containers/com.mlogictech.bibliofusegreptagreader/`.
 
@@ -122,4 +122,4 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ---
 
-*Privacy Policy URL: https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/PRIVACY*
+*Privacy Policy URL: https://mlt-solutions.github.io/app-legal-docs/greptag/PRIVACY*

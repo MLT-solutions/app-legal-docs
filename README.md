@@ -9,9 +9,11 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/kittygambit/TERMS)
 *   [Readme](https://mlt-solutions.github.io/app-legal-docs/kittygambit/)
 
-### BiblioFuse Grep Tag Reader (https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread)
-*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/PRIVACY)
-*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/bibliofusegreptagread/TERMS)
+### GrepTag (https://mlt-solutions.github.io/app-legal-docs/greptag)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/greptag/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/greptag/TERMS)
+
+    Formerly *BiblioFuse Grep Tag Reader*; the old `bibliofusegreptagread/` paths redirect here.
 
 ### BiblioFuse Reader (https://mlt-solutions.github.io/app-legal-docs/bibliofuse)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/PRIVACY)
