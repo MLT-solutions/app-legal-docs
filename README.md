@@ -4,7 +4,7 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 
 ## App Directory
 
-### Stealer First Aid (https://mlt-solutions.github.io/app-legal-docs/stealerfirstaid)
+### Hacked Account First Aid (https://mlt-solutions.github.io/app-legal-docs/stealerfirstaid)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/stealerfirstaid/PRIVACY)
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/stealerfirstaid/TERMS)
 

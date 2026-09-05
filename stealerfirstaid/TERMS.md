@@ -1,4 +1,4 @@
-# Terms of Service / End User License Agreement — Stealer First Aid
+# Terms of Service / End User License Agreement — Hacked Account First Aid
 
 **Effective Date:** 2026-09-04
 **Developer:** MLOGICTECH
@@ -16,7 +16,7 @@ Apple is not a party to these terms, has no responsibility for the app, and is n
 
 ## 1. What This App Is
 
-Stealer First Aid is an **informational checklist**. It explains how a common class of attack works and lists, in priority order, the accounts a person may wish to secure afterwards.
+Hacked Account First Aid is an **informational checklist**. It explains how a common class of attack works and lists, in priority order, the accounts a person may wish to secure afterwards.
 
 **It is a guide, not a service or a tool.** Specifically, the app:
 

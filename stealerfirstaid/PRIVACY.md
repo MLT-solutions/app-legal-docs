@@ -1,4 +1,4 @@
-# Privacy Policy — Stealer First Aid
+# Privacy Policy — Hacked Account First Aid
 
 **Effective Date:** 2026-09-04
 **Developer:** MLOGICTECH
@@ -9,7 +9,7 @@
 
 ## Summary
 
-Stealer First Aid is a **fully offline** guide. It has no accounts, no analytics, no advertising, and no servers of its own. Nothing you do in the app is transmitted anywhere, and the app works completely with the network turned off.
+Hacked Account First Aid is a **fully offline** guide. It has no accounts, no analytics, no advertising, and no servers of its own. Nothing you do in the app is transmitted anywhere, and the app works completely with the network turned off.
 
 This matters more than usual here: people open this app immediately after a security incident, sometimes while deliberately disconnected. An app about protecting your accounts has no business collecting anything.
 
