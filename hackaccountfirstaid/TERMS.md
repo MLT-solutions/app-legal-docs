@@ -58,7 +58,7 @@ You may share limited checklist information for personal, non-commercial purpose
 
 ## 8. Optional Tips
 
-The app is free and all functionality is available without payment. The tip button opens PayPal in your default browser. Tips are voluntary and unlock nothing.
+The app is free and all functionality is available without payment. The tip button opens PayPal in your default browser, where you choose the tip amount. Tips are voluntary gratuities and do not purchase the app, support, additional functionality, digital goods or services, or any other benefit.
 
 PayPal, not the app, processes the payment. PayPal's terms, privacy policy, dispute process, and refund mechanisms apply to the transaction, together with any rights that cannot be excluded under applicable law.
 
@@ -76,7 +76,7 @@ Nothing in these terms excludes warranties or consumer rights that cannot legall
 
 To the maximum extent permitted by law, MLOGICTECH is not liable for indirect, incidental, special, consequential, or punitive damages, or for loss of accounts, funds, data, profits, goodwill, or business arising from use of, inability to use, or reliance on the app.
 
-MLOGICTECH's total aggregate liability relating to the app will not exceed the greater of the amount you paid for the app during the preceding twelve months or USD 10. Some jurisdictions do not allow particular exclusions or limitations, so this section may apply only to the extent permitted there.
+MLOGICTECH's total aggregate liability relating to the app will not exceed USD 10 or, if you paid a purchase price to acquire the app, that purchase price, whichever is greater. Voluntary tips are gratuities, are not payment for the app or any digital goods or services, and do not increase this limit. Some jurisdictions do not allow particular exclusions or limitations, so this section applies only to the extent permitted there.
 
 ## 12. Updates and Termination
 
