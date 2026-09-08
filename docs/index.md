@@ -2,7 +2,7 @@
 
 Shared repo for privacy policy / terms of service documents across this account's
 apps. One folder per app, each containing `PRIVACY.md` and `TERMS.md` (some apps also
-have `SUPPORT.md`, `GUIDE.md`, or a platform-specific `TERMS_WINDOWS.md`). Managed by
+have `SUPPORT.md` or `GUIDE.md`). Managed by
 the `eula` skill (`/eula` in Claude Code) — see that skill for the workflow to create
 or update these docs.
 
@@ -14,7 +14,7 @@ or update these docs.
 | `bibliofuse/` | BiblioFuse (has `GUIDE.md`/`SUPPORT.md` in addition to privacy/terms) |
 | `bibliofusegreptagread/` | BiblioFuse Grep Tag Reader (iOS/macOS + Windows) |
 | `contentcue/` | ContentCue |
-| `packetplanner/` | PacketPlanner (has a separate `TERMS_WINDOWS.md`) |
+| `packetplanner/` | PacketPlanner (iOS, Android and Windows share one privacy/terms pair) |
 | `paperclerk/` | PaperClerk |
 | `smartdecrypt PDF ZIP/` | SmartDecrypt PDF ZIP CBZ (also has screenshots + its own `README.md`) |
 | `stealerfirstaid/` | Hacked Account First Aid for Apple platforms |

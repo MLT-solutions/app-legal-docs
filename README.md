@@ -29,7 +29,6 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 ### PacketPlanner (https://mlt-solutions.github.io/app-legal-docs/packetplanner)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/packetplanner/PRIVACY)
 *   [Terms of Service](https://mlt-solutions.github.io/app-legal-docs/packetplanner/TERMS)
-*   [Terms of Service - Windows](https://mlt-solutions.github.io/app-legal-docs/packetplanner/TERMS_WINDOWS)
 
 ### eBook Archive Duplicate Scanner (https://mlt-solutions.github.io/app-legal-docs/archiveduplicatescanner)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/archiveduplicatescanner/PRIVACY)
