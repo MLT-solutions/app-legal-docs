@@ -19,6 +19,7 @@ or update these docs.
 | `smartdecrypt PDF ZIP/` | SmartDecrypt PDF ZIP CBZ (also has screenshots + its own `README.md`) |
 | `stealerfirstaid/` | Hacked Account First Aid for Apple platforms |
 | `hackaccountfirstaid/` | Hacked Account First Aid for Windows |
+| `txttoimageepub/` | TXT to image EPUB (Windows / Microsoft Store) |
 
 ## Two ways this repo is consumed
 1. **GitHub Pages** (rendered HTML) — per `SETUP_GUIDE.txt`: enabled with "Deploy from
