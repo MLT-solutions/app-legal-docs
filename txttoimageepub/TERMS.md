@@ -3,7 +3,7 @@
 
 **Effective Date:** 18 September 2026
 **Developer / Licensor:** MLOGICTECH (Modern Logic Tech Solutions)
-**Contact:** matthewchoo@mlogictech.com
+**Contact:** support@mlogictech.com
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/txttoimageepub
 
 ---
@@ -186,15 +186,7 @@ respective licences govern your use of those components.
 | certifi | MPL 2.0 — https://mozilla.org/MPL/2.0/ |
 | charset-normalizer | MIT |
 | idna | BSD 3-Clause |
-| EbookLib | AGPL 3.0 or later — https://www.gnu.org/licenses/agpl-3.0.html |
 | Python standard library | PSF Licence |
-
-<!-- REVIEW BEFORE PUBLISHING: EbookLib is AGPL-3.0-or-later. Distributing it
-     inside a closed-source paid application triggers the AGPL's copyleft
-     obligations, which would require releasing this application's complete
-     corresponding source under the AGPL. Replace EbookLib with the
-     application's own EPUB writer before this listing goes live, then delete
-     its row from this table. -->
 
 ---
 
@@ -265,7 +257,7 @@ to the exclusive jurisdiction of the courts of Malaysia.
 
 For support, refund requests or legal inquiries:
 
-**Email:** matthewchoo@mlogictech.com
+**Email:** support@mlogictech.com
 **Developer:** MLOGICTECH (Modern Logic Tech Solutions)
 
 ---
