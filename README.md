@@ -46,3 +46,7 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 ### ContentCue Browser (https://mlt-solutions.github.io/app-legal-docs/contentcue)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/contentcue/PRIVACY)
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/contentcue/TERMS)
+
+### TXT to image EPUB (https://mlt-solutions.github.io/app-legal-docs/txttoimageepub)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/txttoimageepub/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/txttoimageepub/TERMS)
