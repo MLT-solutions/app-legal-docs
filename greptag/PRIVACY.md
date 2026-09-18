@@ -1,6 +1,6 @@
 # Privacy Policy — GrepTag
 
-**Effective Date:** 2026-08-29
+**Effective Date:** 2026-09-18
 **Developer:** MLOGICTECH
 **Contact:** support@mlogictech.com
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/greptag
@@ -39,14 +39,18 @@ The app stores the following data for its own operation.
 
 ### iCloud Sync (Mac ↔ iOS)
 
-If you use the Sync feature, the app writes library snapshots and copies book files to your personal iCloud container (`iCloud.com.mlogictech.bibliofusegreptagreader`). This data is:
+If you use the Sync or Backup features, the app writes library snapshots, library backups, and copies of book files to your personal iCloud container (`iCloud.com.mlogictech.bibliofusegreptagreader`). This data is:
 
 - Stored in **your own iCloud account** — we have no access to it
 - Governed by [Apple's iCloud Terms of Service](https://www.apple.com/legal/internet-services/icloud/)
 - Encrypted by Apple both in transit and at rest
 - Used only to transfer your files and metadata between your own devices
 
-The SwiftData library database remains local to each device. Only sync snapshots (JSON) and book files are written to iCloud.
+The SwiftData library database remains local to each device. Only sync snapshots (JSON), backup files, and book files are written to iCloud.
+
+### iCloud Backup (optional, Pro)
+
+If you turn on Automatic iCloud Backup, the app writes a daily copy of your library's metadata — file names, folder locations, tags, ratings, reading positions and bookmarks, and your grep profiles — to the same personal iCloud container. Cover images are included only if you switch that option on separately. Backups are stored per device and never leave your iCloud account. You can turn the feature off at any time in Settings, and delete existing backups from iCloud Drive yourself.
 
 ### Apple StoreKit
 
@@ -97,7 +101,7 @@ All data is stored locally or in your own iCloud account. You can remove it by d
 
 **macOS:** Delete the app from Applications. SwiftData is stored in `~/Library/Containers/com.mlogictech.bibliofusegreptagreader/`.
 
-**iCloud data (if Sync was used):** Delete the `BiblioFuseGrepTagReader` folder from iCloud Drive in the Files app, or at [iCloud.com](https://www.icloud.com).
+**iCloud data (if Sync or Backup was used):** Delete the `GrepTag` folder from iCloud Drive in the Files app, or at [iCloud.com](https://www.icloud.com).
 
 ---
 

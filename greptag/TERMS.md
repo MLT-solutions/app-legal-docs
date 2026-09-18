@@ -1,6 +1,6 @@
 # Terms of Service / EULA — GrepTag
 
-**Last Updated:** 2026-08-29
+**Last Updated:** 2026-09-18
 **Developer:** MLOGICTECH
 **Contact:** support@mlogictech.com
 
@@ -39,11 +39,12 @@ The App is free to download. Grep scanning itself is unlimited on the free tier 
 | Saved grep profiles | 2 | Unlimited |
 | Unique tags | 5 | Unlimited |
 | EPUB cover extraction | Included | Included |
-| Import tag database | Included | Included |
+| Importing a backup file | Included | Included |
+| Exporting a backup file | Included | Included |
 | TXT cover matching and URL fetch | — | Pro |
 | Moving files into folders | — | Pro |
 | Sync between devices | — | Pro |
-| Exporting the tag database | — | Pro |
+| Automatic iCloud backup | — | Pro |
 | Tag display customization | — | Pro |
 
 Reading files in the built-in viewer and applying tags by hand are always free, within the tag limit above. Unlocking the Pro features requires a purchase (see Section 5).
