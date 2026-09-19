@@ -1,5 +1,5 @@
 # Terms of Service and End User License Agreement (EULA)
-## TXT to image EPUB
+## BookForge: EPUB Studio
 
 **Effective Date:** 18 September 2026
 **Developer / Licensor:** MLOGICTECH (Modern Logic Tech Solutions)
@@ -19,10 +19,11 @@ responsibility for the application or its content.
 
 ## 1. What This Application Does
 
-TXT to image EPUB converts plain text documents that you already possess into
-EPUB ebooks. Where your document refers to a picture — by web link, by cloud
-share link, or by a path to a file on your own computer — the application
-retrieves that picture and stores it inside the finished book.
+BookForge: EPUB Studio converts source files that you already possess into EPUB
+ebooks. The supported source scope includes TXT, CBZ, fixed-layout PDF, DOCX,
+and CBR. Where a source document refers to a picture — by web link, by cloud
+share link, or by a path to a file on your own computer — the application may
+retrieve that picture and store it inside the finished book.
 
 **The application supplies no content.** It ships no catalogue, no library, no
 search function, no list of websites and no links of any kind. It reads only the
@@ -35,7 +36,7 @@ contain, and only when you press a button.
 
 Subject to your compliance with these Terms, MLOGICTECH grants you a
 **personal, non-exclusive, non-transferable, revocable license** to install and
-use TXT to image EPUB on devices you own or control, for your personal or
+use BookForge: EPUB Studio on devices you own or control, for your personal or
 internal business use.
 
 ---
@@ -207,6 +208,9 @@ respective licences govern your use of those components.
 | certifi | MPL 2.0 — https://mozilla.org/MPL/2.0/ |
 | charset-normalizer | MIT |
 | idna | BSD 3-Clause |
+| ZIPFoundation 0.9.20 | MIT |
+| libarchive-swift (libarchive) | BSD 2-Clause / upstream notices |
+| SwiftyOpenCC | MIT / upstream notices |
 | Python standard library | PSF Licence |
 
 ---

@@ -1,8 +1,12 @@
-# TXT to image EPUB
+# BookForge: EPUB Studio
 
-TXT to image EPUB turns plain text files you already have into properly illustrated EPUB ebooks.
+BookForge: EPUB Studio turns documents and image archives you already have into
+properly structured EPUB ebooks and provides a full EPUB metadata editor.
 
-Most converters give you text only. If your `.txt` refers to pictures — as a plain link, a markdown image, an HTML `<img>` tag or a BBCode tag — this app resolves each reference, converts the image and embeds it in the finished book. The illustrations travel inside the file and display offline in any reader.
+The supported source conversion formats are TXT, CBZ, fixed-layout PDF, DOCX, and CBR.
+TXT references can be plain links, markdown images, HTML `<img>` tags, or BBCode
+tags. Comic archives become image-first EPUBs, PDF becomes fixed-layout EPUB,
+and DOCX becomes reflowable EPUB where supported.
 
 Pictures can come from direct web links, from cloud share links pasted straight from the Share button, or from files already on your PC. Chapters are detected automatically (第一章 / Chapter 1 / EP.1) and given a working table of contents, and a whole folder can be converted in one pass.
 
