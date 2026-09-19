@@ -132,6 +132,27 @@ The email features are optional and inactive until you configure them.
 - You must not use the email features to send unsolicited bulk mail, or to send
   material you do not have the right to distribute.
 
+### iPhone and iPad edition
+
+The iOS edition does not connect to an SMTP server and does not request or store
+mail passwords. Send to Kindle opens Apple's system share sheet; Mail opens the
+standard Mail composer with the EPUB attached. The user chooses the recipient
+and confirms delivery in the system UI. If Mail is not configured, the app may
+offer the general share sheet instead.
+
+Kindle availability in the share sheet is controlled by iOS and by whether the
+Kindle app is installed and enabled. MLOGICTECH cannot guarantee that Kindle
+appears in a particular position or that Amazon accepts a document. Amazon's
+account, approved-sender, file-size, and delivery rules apply.
+
+The iOS edition can create a StoreKit subscription or lifetime purchase when
+offered by the App Store. Apple processes payment and billing information;
+MLOGICTECH does not receive the user's payment details. The free edition
+permits one successful conversion or EPUB edit per local calendar day. Pro
+entitlements permit unlimited and batch processing. A monthly subscription may
+include the introductory trial shown by the App Store, and cancellation is
+managed through Apple.
+
 ---
 
 ## 8. Deletion and Data Loss — Important Disclaimer

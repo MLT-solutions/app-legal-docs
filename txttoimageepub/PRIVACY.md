@@ -21,6 +21,13 @@ asked it to:
 
 Both are described in full below.
 
+The iPhone and iPad edition is also covered by this policy. It performs
+conversion and EPUB editing on-device, stores generated books in the app's local
+Documents folder, and does not use a developer-operated server, account,
+analytics, advertising SDK, or SMTP service. Its Kindle and Mail actions hand
+the selected EPUB to Apple's system share sheet or Mail composer; the iOS app
+does not collect or store mail credentials.
+
 ---
 
 ## 1. Data We Do NOT Collect
@@ -87,7 +94,7 @@ launch; every scan and every download follows a button you pressed.
 
 ---
 
-## 4. Network Access — Sending Email
+## 4. Network Access — Sending Email (Windows edition)
 
 The email features ("Send to Kindle" and "Email to") are **optional and off
 until you configure them.**
@@ -109,6 +116,33 @@ When you use them:
 
 You may clear your saved mail settings at any time from the settings dialog, or
 by deleting `settings.json`.
+
+### iPhone and iPad delivery
+
+The iOS edition does not implement SMTP and has no mail-settings screen. Its
+**Send to Kindle** action opens the system share sheet so you can choose the
+Kindle app or another installed destination. Its **Mail** action opens Apple's
+standard Mail composer with the selected EPUB attached. Delivery is handled by
+the account configured in Mail, or by the alternate app selected from the share
+sheet. The app does not receive, store, or transmit the account password.
+
+Amazon, the Kindle app, Apple Mail, and other share destinations are independent
+third parties. Their own size, sender-approval, account, and delivery rules
+apply. Amazon documents EPUB support up to 200 MB for its wireless Send to
+Kindle service; an email provider may impose a smaller limit.
+
+## 4A. iOS Local Storage and External Files
+
+The iOS edition writes generated books to its app Documents/Generated folder and
+keeps overwrite backups in Documents/Backups. Preview extraction is disposable
+cache data. When you select an external folder, iOS supplies a security-scoped
+bookmark so the app can access that folder again; the bookmark remains on the
+device and can be disconnected in Settings. Files shared from another app pass
+through a private App Group inbox and are removed after processing.
+
+The iOS edition may read TXT, EPUB, and referenced local image files only after
+you choose them through Files, Open In, or the share sheet. It does not scan
+other folders automatically.
 
 ---
 

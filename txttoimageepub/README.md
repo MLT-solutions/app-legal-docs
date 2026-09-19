@@ -6,7 +6,7 @@ Most converters give you text only. If your `.txt` refers to pictures — as a p
 
 Pictures can come from direct web links, from cloud share links pasted straight from the Share button, or from files already on your PC. Chapters are detected automatically (第一章 / Chapter 1 / EP.1) and given a working table of contents, and a whole folder can be converted in one pass.
 
-The app also keeps an eye on the books you have already made: it lists your library with image counts, file sizes and any pictures still pointing at the internet, rebuilds a book to pull those in, and can send finished books to your Kindle or any other address through your own mail server.
+The app also keeps an eye on the books you have already made: it lists your library with image counts, file sizes and any pictures still pointing at the internet, and rebuilds a book to pull those in. On Windows, optional email delivery uses your own mail server. On iPhone and iPad, Kindle and Mail delivery use Apple's system share and Mail tools; the iOS edition never asks for SMTP credentials.
 
 You supply the files. The app ships no content, no catalogue and no sources of its own. It reads only the documents you point it at, and acts only on the references those documents already contain.
 
@@ -29,3 +29,7 @@ If you have ideas, suggestions, issues, or feature requests, please email:
 
 - Privacy Policy: https://mlt-solutions.github.io/app-legal-docs/txttoimageepub/PRIVACY
 - Terms of Service / EULA: https://mlt-solutions.github.io/app-legal-docs/txttoimageepub/TERMS
+
+The iOS edition stores generated books in its local app Documents folder,
+supports Files/Open In and the iOS share sheet, and offers optional StoreKit Pro
+purchases.
