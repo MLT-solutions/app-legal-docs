@@ -1,4 +1,4 @@
-# Privacy Policy — BookForge: EPUB Studio
+# Privacy Policy — TXT to image EPUB
 
 **Effective Date:** 18 September 2026
 **Developer:** MLOGICTECH (Modern Logic Tech Solutions)
@@ -9,7 +9,7 @@
 
 ## Summary
 
-BookForge: EPUB Studio runs entirely on your own computer or iPhone/iPad. There are no accounts, no
+TXT to image EPUB runs entirely on your own computer. There are no accounts, no
 sign-up, no analytics and no servers belonging to us. We never receive your
 documents, your images, your email address or your credentials.
 
@@ -20,14 +20,6 @@ asked it to:
 2. **Sending an EPUB by email**, if you set that feature up.
 
 Both are described in full below.
-
-The iPhone and iPad edition is also covered by this policy. It performs
-conversion of TXT, CBZ, fixed-layout PDF, DOCX, and CBR sources, plus EPUB
-editing, on-device; stores generated books in the app's local Documents folder;
-and does not use a developer-operated server, account, analytics, advertising
-SDK, or SMTP service. Its Kindle and Mail actions hand
-the selected EPUB to Apple's system share sheet or Mail composer; the iOS app
-does not collect or store mail credentials.
 
 ---
 
@@ -95,7 +87,7 @@ launch; every scan and every download follows a button you pressed.
 
 ---
 
-## 4. Network Access — Sending Email (Windows edition)
+## 4. Network Access — Sending Email
 
 The email features ("Send to Kindle" and "Email to") are **optional and off
 until you configure them.**
@@ -118,40 +110,13 @@ When you use them:
 You may clear your saved mail settings at any time from the settings dialog, or
 by deleting `settings.json`.
 
-### iPhone and iPad delivery
-
-The iOS edition does not implement SMTP and has no mail-settings screen. Its
-**Send to Kindle** action opens the system share sheet so you can choose the
-Kindle app or another installed destination. Its **Mail** action opens Apple's
-standard Mail composer with the selected EPUB attached. Delivery is handled by
-the account configured in Mail, or by the alternate app selected from the share
-sheet. The app does not receive, store, or transmit the account password.
-
-Amazon, the Kindle app, Apple Mail, and other share destinations are independent
-third parties. Their own size, sender-approval, account, and delivery rules
-apply. Amazon documents EPUB support up to 200 MB for its wireless Send to
-Kindle service; an email provider may impose a smaller limit.
-
-## 4A. iOS Local Storage and External Files
-
-The iOS edition writes generated books to its app Documents/Generated folder and
-keeps overwrite backups in Documents/Backups. Preview extraction is disposable
-cache data. When you select an external folder, iOS supplies a security-scoped
-bookmark so the app can access that folder again; the bookmark remains on the
-device and can be disconnected in Settings. Files shared from another app pass
-through a private App Group inbox and are removed after processing.
-
-The iOS edition may read TXT, CBZ, CBR, PDF, DOCX, EPUB, and referenced local image files only after
-you choose them through Files, Open In, or the share sheet. It does not scan
-other folders automatically.
-
 ---
 
 ## 5. File Access
 
 The app reads and writes only where you point it:
 
-- **Reads** `.txt`, `.cbz`, `.cbr`, `.pdf`, `.docx`, and `.epub` files in the folder you select (and its
+- **Reads** `.txt` and `.epub` files in the folder you select (and its
   subfolders, if you tick that option).
 - **Reads** image files on your computer when your document refers to them.
 - **Writes** new `.epub` files next to the source document.
@@ -176,9 +141,6 @@ data or contacts any server on their own initiative.
 | certifi | MPL 2.0 | Root certificate bundle for TLS verification |
 | charset-normalizer | MIT | Character-encoding detection |
 | idna | BSD 3-Clause | International domain name handling |
-| ZIPFoundation 0.9.20 | MIT | EPUB and DOCX ZIP container access |
-| libarchive-swift (libarchive) | BSD 2-Clause / upstream notices | CBR/RAR archive reading |
-| SwiftyOpenCC | MIT / upstream notices | Offline Simplified/Traditional Chinese conversion |
 | Python standard library (tkinter, smtplib, zipfile) | PSF Licence | Interface, mail transport, EPUB container assembly |
 
 ---

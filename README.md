@@ -50,3 +50,11 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 ### TXT to image EPUB (https://mlt-solutions.github.io/app-legal-docs/txttoimageepub)
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/txttoimageepub/PRIVACY)
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/txttoimageepub/TERMS)
+
+    Windows/PC edition.
+
+### FolioBind: EPUB Studio (https://mlt-solutions.github.io/app-legal-docs/foliobind)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/foliobind/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/foliobind/TERMS)
+
+    iOS/iPadOS edition of TXT to image EPUB, renamed for the App Store.

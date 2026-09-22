@@ -1,5 +1,5 @@
 # Terms of Service and End User License Agreement (EULA)
-## BookForge: EPUB Studio
+## TXT to image EPUB
 
 **Effective Date:** 18 September 2026
 **Developer / Licensor:** MLOGICTECH (Modern Logic Tech Solutions)
@@ -19,11 +19,10 @@ responsibility for the application or its content.
 
 ## 1. What This Application Does
 
-BookForge: EPUB Studio converts source files that you already possess into EPUB
-ebooks. The supported source scope includes TXT, CBZ, fixed-layout PDF, DOCX,
-and CBR. Where a source document refers to a picture — by web link, by cloud
-share link, or by a path to a file on your own computer — the application may
-retrieve that picture and store it inside the finished book.
+TXT to image EPUB converts plain text documents that you already possess into
+EPUB ebooks. Where your document refers to a picture — by web link, by cloud
+share link, or by a path to a file on your own computer — the application
+retrieves that picture and stores it inside the finished book.
 
 **The application supplies no content.** It ships no catalogue, no library, no
 search function, no list of websites and no links of any kind. It reads only the
@@ -36,7 +35,7 @@ contain, and only when you press a button.
 
 Subject to your compliance with these Terms, MLOGICTECH grants you a
 **personal, non-exclusive, non-transferable, revocable license** to install and
-use BookForge: EPUB Studio on devices you own or control, for your personal or
+use TXT to image EPUB on devices you own or control, for your personal or
 internal business use.
 
 ---
@@ -133,27 +132,6 @@ The email features are optional and inactive until you configure them.
 - You must not use the email features to send unsolicited bulk mail, or to send
   material you do not have the right to distribute.
 
-### iPhone and iPad edition
-
-The iOS edition does not connect to an SMTP server and does not request or store
-mail passwords. Send to Kindle opens Apple's system share sheet; Mail opens the
-standard Mail composer with the EPUB attached. The user chooses the recipient
-and confirms delivery in the system UI. If Mail is not configured, the app may
-offer the general share sheet instead.
-
-Kindle availability in the share sheet is controlled by iOS and by whether the
-Kindle app is installed and enabled. MLOGICTECH cannot guarantee that Kindle
-appears in a particular position or that Amazon accepts a document. Amazon's
-account, approved-sender, file-size, and delivery rules apply.
-
-The iOS edition can create a StoreKit subscription or lifetime purchase when
-offered by the App Store. Apple processes payment and billing information;
-MLOGICTECH does not receive the user's payment details. The free edition
-permits one successful conversion or EPUB edit per local calendar day. Pro
-entitlements permit unlimited and batch processing. A monthly subscription may
-include the introductory trial shown by the App Store, and cancellation is
-managed through Apple.
-
 ---
 
 ## 8. Deletion and Data Loss — Important Disclaimer
@@ -208,9 +186,6 @@ respective licences govern your use of those components.
 | certifi | MPL 2.0 — https://mozilla.org/MPL/2.0/ |
 | charset-normalizer | MIT |
 | idna | BSD 3-Clause |
-| ZIPFoundation 0.9.20 | MIT |
-| libarchive-swift (libarchive) | BSD 2-Clause / upstream notices |
-| SwiftyOpenCC | MIT / upstream notices |
 | Python standard library | PSF Licence |
 
 ---
