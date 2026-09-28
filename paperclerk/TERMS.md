@@ -1,6 +1,6 @@
 # Terms of Service / End User License Agreement — PaperClerk
 
-**Last Updated:** 2026-05-05
+**Last Updated:** 2026-09-28
 **Developer / Licensor:** MLOGICTECH
 **Contact:** support@mlogictech.com
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/paperclerk
@@ -35,10 +35,10 @@ Subject to your compliance with these Terms, MLOGICTECH grants you a **personal,
 PaperClerk is free to download and includes the following each month:
 
 - 20 smart AI extractions per month
-- 2 filename templates
-- 2 folder rules
-- Single document import via share sheet
-- Last 30 days CSV export
+- Unlimited filename templates and folder rules
+- Single document import at a time (camera, file picker, or share sheet)
+- Amount privacy, Need Action reminders, and document relationship links
+- Last 30 days of CSV and SQLite export
 
 The free tier has no time limit. The monthly extraction count resets on the first day of each calendar month.
 
@@ -47,11 +47,12 @@ The free tier has no time limit. The monthly extraction count resets on the firs
 A **Pro upgrade** is available via in-app purchase, unlocking:
 
 - Unlimited smart extractions
-- Unlimited filename templates and folder rules
-- Batch document processing
+- Batch document processing (multiple files at once)
+- Multi-currency conversion, using the exchange rate on the document's own date
+- Custom document types, purposes, and categories
+- Duplicate document detection
 - iCloud sync across all your Apple devices
 - Full date range CSV and SQLite export
-- Duplicate document detection
 
 Pro is available in three options:
 - **Monthly subscription** — billed monthly, cancel anytime

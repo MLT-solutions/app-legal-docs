@@ -1,6 +1,6 @@
 # Privacy Policy — PaperClerk
 
-**Effective Date:** 2026-05-05
+**Effective Date:** 2026-09-28
 **Developer:** MLOGICTECH
 **Contact:** support@mlogictech.com
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/paperclerk
@@ -55,6 +55,22 @@ The app uses **Apple StoreKit 2** to validate Pro purchases and restore entitlem
 - Purchase entitlement is managed by Apple and subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
 - Restoration is handled through your Apple ID
 
+### Currency Conversion (Pro feature)
+
+If you turn on currency conversion, PaperClerk requests the historical exchange
+rate for a currency pair and date from a third-party, key-less exchange-rate
+service — [Frankfurter](https://frankfurter.dev) or the open
+[Currency API](https://github.com/fawazahmed0/currency-api), depending on the
+source chosen in Settings.
+
+- Only a currency pair (e.g. SGD → MYR) and a date are sent — never document
+  content, filenames, amounts, or personal information
+- Rates for past dates are cached on your device so the same request is never
+  repeated
+- These providers are free and do not require an account or API key; standard
+  server-side connection logs (such as IP address) may exist on their end as with
+  any web request, but PaperClerk sends them no identifying or document data
+
 ---
 
 ## 3. Document Processing
@@ -88,6 +104,7 @@ PaperClerk makes no automatic network connections to our servers. The only netwo
 
 - **Apple StoreKit:** Used to validate your Pro purchase or restore entitlements. Handled entirely by Apple — we do not receive payment details.
 - **iCloud Drive (Pro, if enabled):** Document files and the database sync via your personal iCloud account. We have no access to this data.
+- **Currency exchange rates (Pro, if enabled):** Requests the rate for a currency pair and date from Frankfurter or the Currency API. Only currency codes and a date are sent — never document content.
 - **Help links:** Tapping "Privacy Policy" or "Terms" in the app opens your browser to this page.
 
 ---
