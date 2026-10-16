@@ -58,3 +58,7 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 *   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/foliobind/TERMS)
 
     iOS/iPadOS edition of TXT to image EPUB, renamed for the App Store.
+
+### LokalTools (https://mlt-solutions.github.io/app-legal-docs/lokaltools)
+*   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/lokaltools/PRIVACY)
+*   [Terms of Service / EULA](https://mlt-solutions.github.io/app-legal-docs/lokaltools/TERMS)
