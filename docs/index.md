@@ -19,7 +19,7 @@ or update these docs.
 | `smartdecrypt PDF ZIP/` | SmartDecrypt PDF ZIP CBZ (also has screenshots + its own `README.md`) |
 | `stealerfirstaid/` | Hacked Account First Aid for Apple platforms |
 | `hackaccountfirstaid/` | Hacked Account First Aid for Windows |
-| `lokaltools/` | LokalTools (iOS/iPadOS file workspace and tools) |
+| `lokaltools/` | LokalTools (iOS/iPadOS file tools; local processing, optional AdMob advertising and Apple ad-free subscription; covers releases with advertising disabled) |
 | `txttoimageepub/` | TXT to image EPUB (Windows / Microsoft Store) |
 
 ## Two ways this repo is consumed
