@@ -36,7 +36,7 @@ LokalTools is a file workspace with PDF, image, video, and file tools. All proce
 
 ## 4. Optional Ad-Free Subscription
 
-All LokalTools tools are free. In advertising-enabled releases, **LokalTools Ad-Free** is an optional auto-renewable monthly subscription that removes the post-result ads. It does not unlock additional tools, storage or processing capacity. Versions with advertising disabled do not request ads or offer new ad-free subscriptions. Check **Settings → Ad-Free** for the plan available in your version.
+All LokalTools tools are free. In advertising-enabled releases, **LokalTools Ad-Free** is an optional auto-renewable monthly subscription that removes the post-result ads. It does not unlock additional tools, storage or processing capacity. Versions with advertising disabled do not request ads or offer new ad-free subscriptions. Check **Settings → Remove Ads** for the plan available in your version.
 
 ### 4.1 Price and Billing
 
@@ -49,13 +49,13 @@ All LokalTools tools are free. In advertising-enabled releases, **LokalTools Ad-
 
 - The subscription automatically renews monthly unless you cancel at least 24 hours before the end of the current period.
 - Apple charges your account for renewal within 24 hours before the end of the current period at the applicable renewal price.
-- Manage or cancel in **LokalTools → Settings → Ad-Free → Manage Subscription**, or **iOS Settings → [your name] → Subscriptions**.
+- Manage or cancel in **LokalTools → Settings → Remove Ads → Manage Subscription**, or **iOS Settings → [your name] → Subscriptions**.
 - If you cancel, the ad-free entitlement continues until the paid period ends. Deleting the app does not cancel the subscription.
 - Apple provides notice of price changes and obtains consent where required by its rules or applicable law.
 
 ### 4.3 Restore Purchases
 
-On a reinstalled app or another device using the same Apple Account, choose **Settings → Ad-Free → Restore Purchases**. Restore and subscription management remain available in releases with advertising disabled. Entitlement depends on a valid, verified Apple transaction.
+On a reinstalled app or another device using the same Apple Account, choose **Settings → Remove Ads → Restore Purchases**. Restore and subscription management remain available in releases with advertising disabled. Entitlement depends on a valid, verified Apple transaction.
 
 ### 4.4 Refunds and Ad Availability
 

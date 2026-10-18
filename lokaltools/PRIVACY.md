@@ -12,7 +12,7 @@
 
 LokalTools is an offline-first file workspace with PDF, image, video and file tools for iPhone and iPad. Tool processing takes place on your device. We do not receive your files, file names, passwords, scans or tool results, and there is no LokalTools account to create.
 
-This policy covers both ad-free releases and releases with advertising enabled. In an advertising-enabled release, Google AdMob processes device, network, advertising and diagnostic information to serve and measure ads. An optional Apple subscription removes those ads. When advertising is disabled in a release, the app does not start the ad SDK or request ads and does not offer a new ad-free subscription. The plan shown in **Settings → Ad-Free** identifies the mode available in your version.
+This policy covers both ad-free releases and releases with advertising enabled. In an advertising-enabled release, Google AdMob processes device, network, advertising and diagnostic information to serve and measure ads. An optional Apple subscription removes those ads. When advertising is disabled in a release, the app does not start the ad SDK or request ads and does not offer a new ad-free subscription. The plan shown in **Settings → Remove Ads** identifies the mode available in your version.
 
 ## 1. Your Files and On-Device Processing
 
@@ -72,7 +72,7 @@ We do not provide Google or ad partners with your files, file names, paths, scan
 
 Google's User Messaging Platform checks consent requirements before the app requests ads. Where a consent message is required, it presents the applicable choices. The app requests ads only when the consent SDK reports that requests are permitted; this may permit limited or non-personalized ads depending on your choices and region. Refusing consent does not prevent you from using the tools.
 
-When Google requires a privacy-options entry point, **Settings → Ad-Free → Ad Privacy Choices** lets you reopen the message and change your choices. This entry appears when required and advertising is enabled for you. An ad-free subscription stops subsequent ad requests. You can also use Google's privacy controls and contact us about your rights.
+When Google requires a privacy-options entry point, **Settings → Remove Ads → Ad Privacy Choices** lets you reopen the message and change your choices. This entry appears when required and advertising is enabled for you. An ad-free subscription stops subsequent ad requests. You can also use Google's privacy controls and contact us about your rights.
 
 Learn more:
 
