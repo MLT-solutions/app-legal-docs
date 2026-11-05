@@ -11,7 +11,7 @@ or update these docs.
 | Folder | App |
 |---|---|
 | `archiveduplicatescanner/` | Archive Duplicate Scanner |
-| `bibliofuse/` | BiblioFuse (has `GUIDE.md`/`SUPPORT.md` in addition to privacy/terms) |
+| `bibliofuse/` | BiblioFuse (Google Play and Microsoft Store terms, Apple Standard EULA for App Store copies, plus privacy, guide and support pages) |
 | `bibliofusegreptagread/` | BiblioFuse Grep Tag Reader (iOS/macOS + Windows) |
 | `contentcue/` | ContentCue |
 | `packetplanner/` | PacketPlanner (iOS, Android and Windows share one privacy/terms pair) |

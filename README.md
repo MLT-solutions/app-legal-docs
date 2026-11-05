@@ -23,7 +23,8 @@ Welcome to the official documentation hub for Modern Logic Tech Solutions apps.
 *   [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/PRIVACY)
 *   [Apple TV Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/APPLE_TV_PRIVACY)
 *   [Guide](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/GUIDE)
-*   [Terms of Service](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/TERMS)
+*   [Terms of Service for Google Play and Microsoft Store](https://mlt-solutions.github.io/app-legal-docs/bibliofuse/TERMS)
+*   [Apple Standard EULA for App Store copies](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 *   [Support](./bibliofuse/SUPPORT.md)
 
 ### PacketPlanner (https://mlt-solutions.github.io/app-legal-docs/packetplanner)
