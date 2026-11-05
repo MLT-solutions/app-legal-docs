@@ -14,7 +14,7 @@ or update these docs.
 | `bibliofuse/` | BiblioFuse (Google Play and Microsoft Store terms, Apple Standard EULA for App Store copies, plus privacy, guide and support pages) |
 | `bibliofusegreptagread/` | BiblioFuse Grep Tag Reader (iOS/macOS + Windows) |
 | `contentcue/` | ContentCue |
-| `packetplanner/` | PacketPlanner (iOS, Android and Windows share one privacy/terms pair) |
+| `packetplanner/` | PacketPlanner (shared privacy and terms pages covering iOS, Android and Windows, with Apple’s Standard EULA for App Store copies) |
 | `paperclerk/` | PaperClerk |
 | `smartdecrypt PDF ZIP/` | SmartDecrypt PDF ZIP CBZ (also has screenshots + its own `README.md`) |
 | `stealerfirstaid/` | Hacked Account First Aid for Apple platforms |

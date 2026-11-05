@@ -1,88 +1,66 @@
-# **End User License Agreement (EULA) - PacketPlanner (Angpao Planner)**
+# PacketPlanner (Angpao Planner) Terms of Service
 
-**Last Updated:** 2026-09-08
+**Last updated November 6, 2026**
 
-## **1. Agreement**
+## 1. Which terms apply
 
-By downloading or using PacketPlanner / Angpao Planner, you agree to these terms. If you do not agree, do not use the App.
+Modern Logic Tech Solutions ("we", "us") publishes PacketPlanner ("the app"). This page explains the terms and purchase options for iPhone and iPad, Android, and Windows.
 
-## **2. License**
+- **Apple App Store.** [Apple's Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) governs the license for App Store copies. The mobile purchase and refund information below describes the PacketPlanner offer on iPhone and iPad.
+- **Google Play.** By installing or using the app from Google Play, you agree to these terms. We grant you a worldwide, perpetual, non-exclusive license to use the app on compatible Android devices for personal, non-commercial purposes, subject to applicable law and your Google Play rights. Access to Pro features depends on your purchase. The [Google Play Terms of Service](https://play.google.com/about/play-terms/) govern Google Play transactions.
+- **Microsoft Store.** The license supplied with your Windows copy governs use of the app. Microsoft's Standard Application License Terms apply when the app comes without a separate license. This page describes the Windows offer and support alongside that license. The [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement) and applicable Microsoft Store terms govern your use of the store and your transactions there.
 
-We grant you a personal, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes.
+If these terms conflict with the applicable app license or store transaction terms, that license or those store terms control on that point, subject to mandatory law.
 
-## **3. Pro Upgrade (iPhone, iPad and Android)**
+## 2. Mobile Pro upgrade (iPhone, iPad and Android)
 
-On iPhone, iPad and Android the App is free to download and offers a \"Pro\" upgrade via a **one-time purchase** that unlocks premium features:
+The mobile app is free to download. A one-time Pro purchase unlocks:
 
-- Multiple plans, so you can keep a separate sheet for each year (free users are limited to 1 plan)
-- Unlimited groups (free users are limited to 1 group)
+- Multiple plans, such as a separate plan for each year. The free version supports one plan.
+- Unlimited groups. The free version supports one group.
 - Optional automatic backup
 - Export to Excel
-- Backup & Restore functionality
-- Ad-free experience (Android only)
+- Backup and restore
+- An ad-free experience on Android
 
-**3.1 One-Time Purchase**
+Pro is a non-consumable purchase with no recurring charge or scheduled expiry. Your store shows the price before you confirm the purchase. To restore Pro on a compatible device, use the Apple Account or Google Account that made the purchase and select **Restore License** in Settings. Purchases stay with the store where you bought them.
 
-* This is a **non-consumable, lifetime purchase** that does not expire.
-* **Payment:** Payment will be charged to your iTunes Account (iOS) or Google Play Account (Android) at confirmation of purchase.
-* **Restoration:** You can restore your purchase on other devices you own by tapping \"Restore License\" in the Settings menu.
+## 3. Windows (Microsoft Store)
 
-## **4. Windows (Microsoft Store)**
+The Microsoft Store offers the Windows app as a one-time purchase with a free trial where shown in the listing. Check the listing for the trial duration available to you. The trial and purchased app both include all Windows features and an ad-free experience.
 
-The Windows version of the App is a **paid app** sold through the Microsoft Store, offered with a free trial. It works differently from the mobile versions:
+To keep using the app after the trial expires, purchase it through the Microsoft Store. There are no subscriptions or separate in-app Pro purchases. Microsoft manages trial expiry, payment and licensing. Your license is tied to the Microsoft account used for the purchase and follows Microsoft Store device rules.
 
-* **Free trial.** The Microsoft Store offers a free trial period for this App, as stated in the Store listing (at the time of writing, **1 day**). During the trial you have full access to every feature. The trial length is set in the Store listing and may change; the length shown in the Store when you install is the one that applies to you.
-* **Purchase after the trial.** To keep using the App once the trial ends, you must buy it. This is a **one-time purchase**, not a subscription. Payment is charged to your Microsoft Account at confirmation of purchase, at the price displayed in the Store for your market. Trial expiry and licensing are enforced by the Microsoft Store, not by the App.
-* **No in-app purchases and no subscriptions.** There is no \"Pro\" upgrade to buy and no \"Restore License\" step. Every feature listed in Section 3 above is unlocked from first launch, both during the trial and after purchase.
-* **No advertisements.** The Windows version never displays ads.
-* **Your licence** is tied to the Microsoft Account used for the purchase and may be used on your Windows devices signed in to that account, in accordance with Microsoft Store terms.
-* **Microsoft Store terms also apply.** Your purchase and use of the App through the Microsoft Store are additionally governed by the Microsoft Services Agreement (https://www.microsoft.com/en-us/servicesagreement) and the Microsoft Standard Application License Terms. Where those terms conflict with this EULA, the Microsoft terms prevail for the Store transaction.
+## 4. Refunds and purchase support
 
-## **5. Refunds**
+- **Apple App Store.** Request an eligible refund through [Apple's Report a Problem page](https://reportaproblem.apple.com/).
+- **Google Play.** Use [Google Play's refund process](https://support.google.com/googleplay/answer/15574897) or contact us for help with your purchase or refund request.
+- **Microsoft Store.** Follow [Microsoft's instructions for requesting an app refund](https://support.microsoft.com/en-us/accounts-billing/subscriptions/get-a-refund-for-apps-and-games-purchased-from-microsoft-store).
 
-Refund requests are handled directly by the store you purchased from, in accordance with that store's refund policy. We do not have the ability to process refunds directly.
+Refund eligibility depends on the store's policy, the offer and applicable law. You retain any mandatory rights to cancellation, withdrawal, refunds and other remedies.
 
-* **Apple App Store:** https://reportaproblem.apple.com
-* **Google Play:** https://play.google.com/store/account/orderhistory
-* **Microsoft Store:** https://account.microsoft.com/billing/orders
+## 5. Data, backups and ads
 
-## **6. Data & Privacy**
+The app stores your plans and settings on your device. We do not operate servers that receive your plans or backup files.
 
-All your data is stored **locally on your device**. We have no servers that receive your data and we do not collect, transmit, or store your personal information.
+Automatic backup is optional and off by default. When enabled, the app saves plans to your private iCloud Drive container on iPhone and iPad, the app's private storage on Android, or the **PacketPlanner Backups** folder in Documents on Windows. See our [Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/packetplanner/PRIVACY) for details about storage, backups and third-party services.
 
-Automatic backup is **optional and off by default**. When you turn it on, your plans are written as files to your own storage — your private iCloud Drive container on iPhone and iPad, the App's private storage on Android, or a **PacketPlanner Backups** folder inside your Documents folder on Windows. Those files stay under your control; we cannot read them. See our [Privacy Policy](./PRIVACY.md) for details.
+Google AdMob serves banner ads in the free Android version. The Android Pro upgrade removes them. The iPhone, iPad and Windows versions are ad-free.
 
-## **7. Advertisements (Android Free Users)**
+## 6. Warranties, liability and consumer rights
 
-The free version of the Android app displays banner ads at the bottom of the screen. These ads are served by Google AdMob. Users who purchase the Pro upgrade will not see any ads. The iOS and Windows versions do not display ads.
+You retain all guarantees, rights and remedies that applicable law makes mandatory. Those protections take precedence over these terms.
 
-## **8. Disclaimer (\"As-Is\")**
+Where applicable law permits, we provide the app as available without a promise of uninterrupted or error-free operation and exclude liability for indirect, incidental, special or consequential damages arising from use of the app.
 
-The App is provided \"AS IS\" and \"AS AVAILABLE\" without warranty of any kind, express or implied. We do not guarantee that the App will be error-free or uninterrupted.
+Malaysian law governs these terms to the extent permitted by applicable law, subject to the mandatory consumer protections that apply where you live.
 
-## **9. Limitation of Liability**
+## 7. Termination and changes
 
-In no event shall Modern Logic Tech Solutions be liable for any indirect, special, incidental, or consequential damages arising out of the use or inability to use the App, including but not limited to loss of data or inability to access the App.
+The applicable store license governs termination for App Store and Microsoft Store copies. For Google Play copies, we may end your license for a material breach of these terms to the extent permitted by applicable law and subject to any required notice.
 
-## **10. Termination**
+We may update these terms and will show the latest revision date above. We will provide any notice and obtain any consent required by applicable law.
 
-We reserve the right to terminate or suspend your access to the App at any time, without prior notice, for conduct that we believe violates these terms or is harmful to other users, us, or third parties.
+## 8. Contact
 
-## **11. Governing Law**
-
-These terms are governed by the laws of Malaysia.
-
-## **12. Changes to These Terms**
-
-We may update these terms from time to time. Continued use of the App after changes constitutes acceptance of the new terms.
-
-## **13. Contact Us**
-
-If you have any questions about these terms, please contact us at:
-
-**Email:** support@mlogictech.com
-
----
-
-**Note for iOS Users:**
-For iOS users, the standard Apple EULA applies. You can view Apple's standard EULA here: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+For questions about the app, purchases or these terms, contact Modern Logic Tech Solutions at [support@mlogictech.com](mailto:support@mlogictech.com).
