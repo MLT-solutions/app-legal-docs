@@ -1,149 +1,168 @@
 # Privacy Policy — PaperClerk
 
-**Effective Date:** 2026-09-28
-**Developer:** MLOGICTECH
-**Contact:** support@mlogictech.com
+**Effective Date:** November 25, 2026
+
+**Developer:** MLOGICTECH (Modern Logic Tech Solutions)
+
+**Contact:** [support@mlogictech.com](mailto:support@mlogictech.com)
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/paperclerk
 
----
+This Privacy Policy applies to PaperClerk for iOS, iPadOS, macOS, and Android.
 
-## Summary
+## At a glance
 
-PaperClerk is a **privacy-first** document filing application. It uses Apple Intelligence to extract information from your documents — vendor, date, amount, document type — entirely on your device. No documents, filenames, or extracted data are ever transmitted to any server.
+PaperClerk is designed to keep your library on your device. Optical character
+recognition and supported on-device AI extraction run on your device. PaperClerk
+does not send your library to a MLOGICTECH-operated server. If you turn on a sync
+option, PaperClerk transfers the records and files needed for that option to the
+cloud account or network folder you choose. Those copies are stored and governed by
+the provider you selected.
 
----
+PaperClerk does not require a PaperClerk account. Signing in to Google or Microsoft
+is only needed when you choose a provider that uses that account for sync.
 
-## 1. Data We Do NOT Collect
+## 1. Information PaperClerk processes
 
-We do not collect, store, or transmit:
+### Documents and library records
 
-- Personal information of any kind (name, email, location, etc.)
-- The contents, names, or paths of any documents you file
-- Text extracted from your documents by OCR or AI
-- Usage analytics, crash reports, or telemetry
-- Device identifiers, IP addresses, or network information
+When you import or create items, PaperClerk processes the files and information you
+choose to add. This may include original PDFs and images; OCR text; filenames and
+folder locations; vendor, date, amount, currency and document type; notes and
+references; expenses, payment details and recurring commitments; filing rules,
+categories, reports and related preferences. These items are stored in the app's
+local database and file storage so you can organize, search, review and export your
+library.
 
----
+OCR and supported AI extraction are performed on the device. PaperClerk does not
+upload a document for OCR or AI extraction. You should review extracted information
+before relying on it.
 
-## 2. Data Stored on Your Device
+### Optional Android payment-notification capture
 
-The app stores the following data for its own operation.
+On Android, you may enable payment-notification capture and grant Android's
+Notification Access permission. When enabled, PaperClerk checks notification text
+against your capture rules and can create a local expense draft. The text and draft
+remain on your device, are not sent to MLOGICTECH, and are not included in sync.
+You can turn off capture or revoke Notification Access in Android settings and
+delete drafts from PaperClerk.
 
-| Data | Storage Location | Purpose |
-|------|-----------------|---------|
-| Document records (vendor, date, amount, type, filename, SHA-256 hash) | SQLite database in app container or iCloud Drive | Filing history, search, duplicate detection |
-| Filed document files | Local `Documents/` folder or iCloud Drive | Your organised documents |
-| Filename templates and folder rules | SQLite database | Your custom filing preferences |
-| Account aliases | SQLite database | Mapping account numbers to named groups |
-| App preferences (date format, sync settings, etc.) | UserDefaults (`NSUserDefaults`) | App behaviour settings |
-| Monthly extraction count | UserDefaults | Free-tier usage tracking (resets monthly) |
-| Purchase entitlement | Apple StoreKit | Pro access status across your Apple devices |
+### Sync connection information
 
-### iCloud Sync (Pro feature)
+If you add a sync connection, PaperClerk stores the connection details needed to
+recognize it on your device. These can include a provider name, account display
+name or email address, folder or share location, and locally held authorization or
+connection credentials. This information is not sent to MLOGICTECH. Google and
+Microsoft sign-in and authorization are handled through their services; the app
+uses the authorization needed to access the sync location you selected. SMB
+credentials are used to connect to the network share you selected. MLOGICTECH does
+not receive these connection details on its own servers.
 
-If you enable iCloud sync, your document database and filed documents are stored in your personal iCloud Drive container (`iCloud.com.mlogictech.paperclerk`). This data is:
+### Purchase status
 
-- Stored in **your own iCloud account** — we have no access to it
-- Governed by [Apple's iCloud Terms of Service](https://www.apple.com/legal/internet-services/icloud/)
-- Encrypted by Apple both in transit and at rest
+Pro purchases are processed by the Apple App Store or Google Play. PaperClerk reads
+the resulting entitlement status on your device to enable the features you bought.
+MLOGICTECH does not receive your payment card number or billing credentials and
+does not operate a purchase-validation server for PaperClerk.
 
-### Apple StoreKit
+## 2. Optional sync and where copies are stored
 
-The app uses **Apple StoreKit 2** to validate Pro purchases and restore entitlements across your Apple devices.
+Sync is optional. You can use PaperClerk in device-only mode. Available providers
+depend on your platform:
 
-- We do not receive your payment details
-- Purchase entitlement is managed by Apple and subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
-- Restoration is handled through your Apple ID
+| Provider | Platforms | What PaperClerk sends |
+|---|---|---|
+| Apple CloudKit | iOS, iPadOS, macOS | Library records and associated document files to your private PaperClerk CloudKit database, for syncing between your Apple devices. |
+| iCloud Drive mirror | iOS, iPadOS, macOS | A browseable copy of supported library files and database exports to your iCloud Drive. The mirror is not an in-app restore source. |
+| Google Drive | iOS, iPadOS, macOS, Android | Sync records, database data and associated document files to the PaperClerk location in the Google Drive account you authorize. |
+| OneDrive | iOS, iPadOS, macOS, Android | Sync records, database data and associated document files to the PaperClerk location in the OneDrive account you authorize. |
+| SMB network share | iOS, iPadOS, macOS, Android | Sync records, database data and associated document files to the folder on the network share you select. |
 
-### Currency Conversion (Pro feature)
+Sync may include your document and expense records, commitments and payment
+records, imported file contents, filing settings and related sync metadata needed
+to keep your library consistent across devices. Android payment-notification raw
+text and pending notification drafts are excluded. Each platform keeps a local
+database and syncs portable records and files through the selected destination;
+MLOGICTECH does not operate a PaperClerk sync server.
 
-If you turn on currency conversion, PaperClerk requests the historical exchange
-rate for a currency pair and date from a third-party, key-less exchange-rate
-service — [Frankfurter](https://frankfurter.dev) or the open
-[Currency API](https://github.com/fawazahmed0/currency-api), depending on the
-source chosen in Settings.
+The Apple, Google, Microsoft, or network-share provider receives and stores the
+copies needed for sync. Its terms, privacy policy, security controls, retention,
+and account settings apply to those copies. MLOGICTECH does not control those
+providers or have access to your cloud account or network share. Enable sync only
+with a destination you trust and are authorized to use.
 
-- Only a currency pair (e.g. SGD → MYR) and a date are sent — never document
-  content, filenames, amounts, or personal information
-- Rates for past dates are cached on your device so the same request is never
-  repeated
-- These providers are free and do not require an account or API key; standard
-  server-side connection logs (such as IP address) may exist on their end as with
-  any web request, but PaperClerk sends them no identifying or document data
+You can pause sync or switch to device-only mode in PaperClerk. Turning sync off,
+disconnecting an account, or uninstalling PaperClerk does not necessarily delete
+copies already written to a cloud folder, provider recycle bin, revision history,
+or network backup. Remove those copies using the provider's tools if you want them
+deleted. A deletion made in a synced library is propagated as supported by the
+provider and connected devices; provider retention or backups may keep a copy.
 
----
+## 3. Other network requests
 
-## 3. Document Processing
+### Currency conversion
 
-PaperClerk processes documents you import or share to it. It:
+If you use online currency conversion, PaperClerk requests a historical rate from
+the selected rate source: Frankfurter or the open Currency API by fawazahmed0. The
+request contains the currency pair and date, not your document, filename, amount,
+or account details. Rates are cached on your device. These services may receive
+standard connection information such as your IP address under their own policies.
+You can use a manual exchange rate instead.
 
-- Reads the document (PDF or image) you select
-- Extracts text using Apple's Vision framework (on-device OCR)
-- Uses Apple Intelligence (FoundationModels, on-device) to identify vendor, date, amount, and document type
-- Copies the file to your organised folder with your chosen filename template
-- Stores a record (metadata only, not file content) in the local SQLite database
-- Does **not** upload, transmit, or cache document content to any external server
+### Platform services
 
-All extraction is performed entirely on-device using Apple frameworks.
+The app uses Apple StoreKit or Google Play Billing for purchases, and the relevant
+Google or Microsoft authorization service when you connect those providers. These
+services process information under their own terms and privacy policies. PaperClerk
+does not include in-app advertising or a third-party analytics or crash-reporting
+service.
 
----
+## 4. Storage, security, and privacy controls
 
-## 4. Share Extension
+PaperClerk stores its database, imported files, settings, and any pending local
+drafts in app-managed storage on your device. The operating system's app sandbox
+and the security configuration of your device apply to local data. Use a device
+passcode and keep your operating system up to date.
 
-The iOS Share Extension (`com.mlogictech.paperclerk.ShareExtension`) allows you to file documents directly from other apps (Mail, Files, etc.).
+The **Hide amounts** option masks amounts in supported parts of the app until you
+unlock them. This is a display and access control; it does not encrypt the database
+or original files against someone who can access the device's app storage.
 
-- Files shared to PaperClerk are written to a shared inbox (`_Inbox/`) in the App Group container (`group.com.mlogictech.paperclerk`)
-- The main app processes files from this inbox on next launch
-- No shared data is transmitted outside the device
+Cloud providers use their own security measures. Network-share encryption depends
+on the SMB server, network, and connection configuration. PaperClerk cannot
+guarantee the security of a provider, server, network, or device you control.
 
----
+## 5. Data deletion and retention
 
-## 5. Network Access
+PaperClerk has no MLOGICTECH-hosted user account or central library to delete. You
+can remove records and files in the app, clear pending local drafts, or delete the
+app and its local data using your device's controls. Before deleting the app,
+export or back up anything you want to keep.
 
-PaperClerk makes no automatic network connections to our servers. The only network activity is:
+For synced data, delete the relevant PaperClerk folder or files in the provider's
+service as well. Provider recycle bins, version history, snapshots, backups, and
+other devices may retain copies according to that provider's settings and policies.
+Keep any recovery copies you created under your own control.
 
-- **Apple StoreKit:** Used to validate your Pro purchase or restore entitlements. Handled entirely by Apple — we do not receive payment details.
-- **iCloud Drive (Pro, if enabled):** Document files and the database sync via your personal iCloud account. We have no access to this data.
-- **Currency exchange rates (Pro, if enabled):** Requests the rate for a currency pair and date from Frankfurter or the Currency API. Only currency codes and a date are sent — never document content.
-- **Help links:** Tapping "Privacy Policy" or "Terms" in the app opens your browser to this page.
+## 6. Children's privacy
 
----
+PaperClerk is designed for adults and is not directed to children under 13. We do
+not knowingly collect children's information on MLOGICTECH-operated servers. If
+you believe a child has used provider sync in a way that raises a privacy concern,
+contact us and the relevant provider.
 
-## 6. Data Deletion
+## 7. Changes to this policy
 
-All data is stored locally or in your own iCloud account. You can remove it by:
+We may update this policy when PaperClerk's features or data practices change. We
+will update the effective date above. The current version is available at the URL
+below.
 
-**To delete app data:**
-iOS Settings → General → iPhone Storage → PaperClerk → Delete App
+## 8. Contact
 
-This removes:
-- The SQLite database and all filing records
-- All filed documents stored in the local app container
-- App preferences and extraction count
+For questions about this policy, contact:
 
-**iCloud data (if sync was enabled):**
-To remove documents from iCloud, delete the `PaperClerk` folder from iCloud Drive in the Files app, or sign in to [iCloud.com](https://www.icloud.com) → iCloud Drive → PaperClerk.
+**MLOGICTECH**
 
----
-
-## 7. Children's Privacy
-
-This app does not collect any information from any users, including children. It is not directed at children under 13.
-
----
-
-## 8. Changes to This Policy
-
-We may update this Privacy Policy to reflect changes in the app. The effective date at the top of this document will be updated accordingly. Continued use of the app after changes constitutes acceptance of the updated policy.
-
----
-
-## 9. Contact
-
-If you have any questions about this Privacy Policy, please contact us:
-
-**Email:** support@mlogictech.com
-**Developer:** MLOGICTECH
+**Email:** [support@mlogictech.com](mailto:support@mlogictech.com)
 
 ---
 

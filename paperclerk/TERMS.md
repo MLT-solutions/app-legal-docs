@@ -1,210 +1,173 @@
-# Terms of Service / End User License Agreement — PaperClerk
+# Terms of Service — PaperClerk
 
-**Last Updated:** 2026-09-28
-**Developer / Licensor:** MLOGICTECH
-**Contact:** support@mlogictech.com
+**Last Updated:** November 25, 2026
+
+**Developer / Provider:** MLOGICTECH (Modern Logic Tech Solutions)
+
+**Contact:** [support@mlogictech.com](mailto:support@mlogictech.com)
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/paperclerk
 
----
+These terms apply to PaperClerk for iOS, iPadOS, macOS, and Android. The features
+available to you depend on your platform, app version, region, and purchase.
+
+## 1. Which license and store terms apply
+
+**Apple App Store copies.** Apps distributed through Apple's App Store are licensed
+under Apple's [Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
+unless Apple or MLOGICTECH provides a valid custom EULA for that copy. Apple's
+terms govern the App Store transaction and any matters they address.
+
+**Google Play copies.** For the Android app distributed through Google Play,
+MLOGICTECH grants you the license described below. Google Play's
+[Terms of Service](https://play.google.com/intl/en_en/about/play-terms/?hl=en)
+and applicable Google Payments terms govern purchases and billing through Google
+Play.
+
+If these terms conflict with the applicable store license, store purchase terms,
+or mandatory consumer law, those terms and laws control to the extent of the
+conflict.
+
+## 2. License
+
+Subject to these terms and your applicable store license, MLOGICTECH grants you a
+personal, non-exclusive, non-transferable license to install and use PaperClerk on
+devices you own or control for personal or internal business document organization.
+You may not redistribute, resell, sublicense, or reverse engineer the app except
+where applicable law permits it. All rights not expressly granted remain with
+MLOGICTECH or its licensors.
+
+## 3. Free and Pro features
+
+PaperClerk can be used without creating a PaperClerk account. The free and Pro
+feature sets and limits may vary by platform and may change as the app evolves.
+The app and applicable store listing show the current features and purchase options
+available to you.
+
+Pro may be offered as a monthly subscription, an annual subscription, or a one-time
+Lifetime purchase. The available plans, localized price, billing period, trial or
+introductory offer, and renewal details are shown by the applicable store before
+you confirm a purchase. Any trial is subject to the store's offer terms and
+eligibility rules. If a trial converts to a paid subscription, the store will
+charge the price shown at purchase unless you cancel before the trial ends.
+
+### Subscriptions
+
+Apple or Google processes and manages your subscription. Subscriptions renew
+automatically for the displayed billing period unless you cancel through your
+store account before the renewal deadline shown by that store. You can manage or
+cancel through your Apple Account subscription settings or Google Play
+subscriptions settings. The store's billing and cancellation terms apply. Any
+mandatory refund or cancellation rights remain available under applicable law.
+
+### Lifetime purchase
+
+A Lifetime purchase is a one-time, non-consumable purchase with no recurring
+subscription charge. It unlocks the Pro entitlement for the store account used to
+buy it, subject to the applicable store license and continued availability of
+PaperClerk. It does not transfer between Apple App Store and Google Play purchases.
+
+### Restoring purchases and refunds
+
+Use PaperClerk's restore or refresh purchase option, where available, and the same
+Apple Account or Google Play account used for the purchase to restore an eligible
+entitlement. Apple and Google handle payments and refunds under their policies. For
+Apple purchases, visit [reportaproblem.apple.com](https://reportaproblem.apple.com/).
+For Google Play purchases, use [Google Play's refund help](https://support.google.com/googleplay/answer/15574897)
+or contact us for help. Your mandatory rights are not limited by this section.
+
+## 4. Your documents and data
+
+You retain ownership of the documents and records you add to PaperClerk. You are
+responsible for having the rights and permissions needed to import, store, process,
+export, and sync them. PaperClerk is a filing and follow-up tool; it is not an
+accounting, tax, legal, lending, or financial-advice service.
+
+OCR and AI extraction can be incomplete or inaccurate. Review extracted names,
+dates, amounts, currencies, classifications, and suggested filing details before
+relying on them. Exchange rates are informational estimates from third-party
+sources or values you enter; they are not guaranteed and may not match a bank,
+card issuer, tax authority, or accounting system.
+
+## 5. Optional sync and third-party services
+
+You may use PaperClerk without cloud sync. If you enable a sync option, you direct
+PaperClerk to transfer the library data and document files needed for sync to the
+provider or network folder you select. Depending on your platform, options may
+include Apple CloudKit, an iCloud Drive mirror, Google Drive, OneDrive, or an SMB
+network share. Android supports Google Drive, OneDrive, and SMB. Available options
+may vary by platform and version.
+
+Cloud and network providers are separate services governed by their own terms and
+privacy policies. You are responsible for choosing a destination you control or
+are authorized to use and for protecting your provider account, network share, and
+credentials. MLOGICTECH does not operate a central PaperClerk sync server and
+cannot control third-party availability, security, retention, or service changes.
+
+Sync, restore, or switching a library can replace or update data on a device. Keep
+independent backups of important documents and records. Turning off sync,
+forgetting a connection, or uninstalling the app does not necessarily remove copies
+already stored in a provider folder, recycle bin, version history, backup, or other
+device. Remove those copies through the relevant provider when needed. See the
+[Privacy Policy](https://mlt-solutions.github.io/app-legal-docs/paperclerk/PRIVACY)
+for more about sync data and deletion.
 
-## Apple App Store Notice
+On Android, payment-notification capture is optional and requires Android's
+Notification Access permission. If enabled, it may read notification text to create
+local expense drafts. You are responsible for deciding whether to enable it and for
+reviewing and deleting drafts you do not want to keep.
 
-This application is distributed through the Apple App Store. The **Apple End User License Agreement (EULA)** governs your use of the application and is available at:
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+## 6. Acceptable use
 
-Apple is not a party to this agreement and bears no responsibility for the application or its content.
+You agree not to use PaperClerk to violate another person's rights or applicable
+law, interfere with the app or services, or access an account, document, or network
+share without authorization. You must not use the app to upload or sync material
+you are not entitled to handle.
 
----
+## 7. Availability, updates, and termination
 
-## 1. Agreement
+We may update, change, suspend, or discontinue features or the app, subject to
+applicable law and your store license. We do not promise that every feature or
+third-party service will remain available at all times. You may stop using the app
+at any time and cancel subscriptions through the store that bills you. We may
+suspend or end your license for a material violation of these terms to the extent
+permitted by applicable law and the applicable store license.
 
-By downloading, installing, or using PaperClerk, you agree to these Terms of Service. If you do not agree, do not install or use the application.
+Ending use or uninstalling the app does not itself delete documents or library
+copies stored on your device, in your provider account, in a network share, or in
+backups. You remain responsible for managing those copies.
 
----
+## 8. Disclaimers and liability
 
-## 2. License Grant
+PaperClerk is provided as available. To the extent permitted by applicable law,
+MLOGICTECH does not warrant uninterrupted service, compatibility with every file or
+provider, or the accuracy of OCR, AI extraction, exchange rates, or suggested
+filing decisions. You should verify information before relying on it.
 
-Subject to your compliance with these Terms, MLOGICTECH grants you a **personal, non-exclusive, non-transferable, revocable license** to install and use PaperClerk on Apple devices you own or control, for your personal or internal business use.
+Nothing in these terms excludes or limits a consumer guarantee, remedy, or other
+right that applicable law does not allow us to exclude or limit. To the extent
+permitted by law, MLOGICTECH is not liable for indirect or consequential loss
+arising from use of the app, including loss of data, documents, or business
+opportunity. Any liability limit applies only to the extent permitted by applicable
+law and does not affect rights that cannot be limited.
 
----
+## 9. Governing law
 
-## 3. Free Tier and Pro Upgrade
+These terms are governed by the laws of Malaysia, subject to any mandatory consumer
+protection laws and rights that apply where you live. Nothing in this section
+removes a right to bring a claim in a court or forum where applicable law gives you
+that right.
 
-### 3.1 Free Tier
+## 10. Changes and contact
 
-PaperClerk is free to download and includes the following each month:
+We may update these terms as PaperClerk changes. The revised date above identifies
+the current version. We will provide notice or obtain consent where applicable law
+requires it.
 
-- 20 smart AI extractions per month
-- Unlimited filename templates and folder rules
-- Single document import at a time (camera, file picker, or share sheet)
-- Amount privacy, Need Action reminders, and document relationship links
-- Last 30 days of CSV and SQLite export
+For questions about PaperClerk, these terms, or purchases, contact:
 
-The free tier has no time limit. The monthly extraction count resets on the first day of each calendar month.
+**MLOGICTECH**
 
-### 3.2 Pro Upgrade
-
-A **Pro upgrade** is available via in-app purchase, unlocking:
-
-- Unlimited smart extractions
-- Batch document processing (multiple files at once)
-- Multi-currency conversion, using the exchange rate on the document's own date
-- Custom document types, purposes, and categories
-- Duplicate document detection
-- iCloud sync across all your Apple devices
-- Full date range CSV and SQLite export
-
-Pro is available in three options:
-- **Monthly subscription** — billed monthly, cancel anytime
-- **Annual subscription** — billed yearly, cancel anytime
-- **Lifetime purchase** — one-time non-consumable purchase
-
-### 3.3 Subscriptions
-
-- Subscriptions are managed by Apple through your Apple ID
-- Payment is charged to your Apple ID account at confirmation of purchase
-- Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current billing period
-- You can manage or cancel your subscription at any time in your Apple ID account settings
-- No refunds are provided for partial subscription periods
-
-### 3.4 Lifetime Purchase
-
-The Lifetime purchase is a **non-consumable in-app purchase**. It entitles you to Pro features permanently on all Apple devices signed into the same Apple ID. This is a one-time payment with no recurring charges.
-
-### 3.5 Refunds
-
-Refund requests for App Store purchases must be submitted to Apple via:
-https://reportaproblem.apple.com
-
-MLOGICTECH does not process App Store refunds directly.
-
----
-
-## 4. Restrictions
-
-You may not:
-
-- Copy, redistribute, resell, sublicense, or transfer the application or your license
-- Reverse-engineer, decompile, or disassemble the application, except to the extent expressly permitted by applicable law
-- Remove, alter, or obscure any copyright notices or proprietary markings in the application
-- Use the application to file documents you do not have legal authorisation to access or copy
-
----
-
-## 5. Ownership
-
-The application and all intellectual property rights therein are and remain the exclusive property of MLOGICTECH. These Terms do not transfer any ownership rights to you.
-
----
-
-## 6. Your Documents and Data
-
-PaperClerk is a tool for organising your own documents. You retain full ownership of all documents you file using PaperClerk. MLOGICTECH does not access, store, or transmit your documents. All processing occurs on-device.
-
-You are solely responsible for:
-- Ensuring you have the right to copy and file any documents you import into PaperClerk
-- Maintaining backups of your documents independently of PaperClerk
-- Managing your iCloud storage if iCloud sync is enabled
-
----
-
-## 7. iCloud Sync
-
-The iCloud sync feature stores your document database and filed documents in your personal iCloud Drive. This data is governed by your agreement with Apple and [Apple's iCloud Terms of Service](https://www.apple.com/legal/internet-services/icloud/). MLOGICTECH has no access to data stored in your iCloud account.
-
-Disabling iCloud sync does not delete your iCloud data. You must manually remove the PaperClerk folder from iCloud Drive if you wish to delete that data.
-
----
-
-## 8. Open-Source Components
-
-PaperClerk is built on open-source components. Their respective licences govern your use of those components.
-
-| Component | Licence | Purpose |
-|-----------|---------|---------|
-| GRDB.swift | MIT | SQLite database layer |
-| Swift standard library | Apache-2.0 | Language runtime |
-
-Full licence texts are available in the application bundle.
-
----
-
-## 9. Disclaimer of Warranties
-
-**THE APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.**
-
-MLOGICTECH does not warrant that:
-- AI extractions will be accurate for all document types
-- The application will be error-free or uninterrupted
-- All document formats will be supported
-
-AI-extracted data (vendor, date, amount, document type) should be reviewed before relying on it for accounting or legal purposes.
-
----
-
-## 10. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MLOGICTECH BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, LOSS OF DOCUMENTS, OR BUSINESS INTERRUPTION, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APPLICATION, EVEN IF MLOGICTECH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-MLOGICTECH'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATED TO THE APPLICATION SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE APPLICATION IN THE 12 MONTHS PRECEDING THE CLAIM.
-
----
-
-## 11. Indemnification
-
-You agree to indemnify, defend, and hold harmless MLOGICTECH and its officers, directors, employees, and agents from and against any claims, damages, losses, and expenses (including reasonable legal fees) arising from your use of the application or your violation of these Terms.
-
----
-
-## 12. Updates
-
-MLOGICTECH may release updates to the application from time to time. Updates may add features, fix bugs, or modify existing functionality. Your subscription or Lifetime purchase entitles you to all future updates at no additional cost while your entitlement is active.
-
----
-
-## 13. Termination
-
-**13.1 Your Right to Terminate**
-You may stop using the application at any time by uninstalling it from your devices and cancelling any active subscription through your Apple ID account settings.
-
-**13.2 Our Right to Terminate**
-We reserve the right to discontinue the application or revoke your license if you violate these Terms, particularly the restrictions in Section 4.
-
-**13.3 Effect of Termination**
-Upon termination, your license ends immediately. Your documents remain on your device or in your iCloud Drive — we do not delete them.
-
----
-
-## 14. Governing Law
-
-These Terms are governed by the laws of **Malaysia**, without regard to conflict-of-law principles. Any dispute arising from these Terms shall be subject to the exclusive jurisdiction of the courts of Malaysia.
-
----
-
-## 15. Changes to These Terms
-
-We may update these Terms from time to time. Changes will be effective when we update the "Last Updated" date at the top of this document. Continued use of the application after changes constitutes acceptance of the revised Terms.
-
----
-
-## 16. Severability
-
-If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
-
----
-
-## 17. Entire Agreement
-
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and MLOGICTECH regarding PaperClerk.
-
----
-
-## 18. Contact
-
-For support or legal inquiries:
-
-**Email:** support@mlogictech.com
-**Developer:** MLOGICTECH
+**Email:** [support@mlogictech.com](mailto:support@mlogictech.com)
 
 ---
 
