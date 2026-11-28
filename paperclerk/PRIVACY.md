@@ -1,22 +1,22 @@
 # Privacy Policy — PaperClerk
 
-**Effective Date:** November 25, 2026
+**Effective Date:** November 28, 2026
 
 **Developer:** MLOGICTECH (Modern Logic Tech Solutions)
 
 **Contact:** [support@mlogictech.com](mailto:support@mlogictech.com)
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/paperclerk
 
-This Privacy Policy applies to PaperClerk for iOS, iPadOS, macOS, and Android.
+This Privacy Policy applies to PaperClerk for iOS, iPadOS, macOS, Android, and Windows.
 
 ## At a glance
 
-PaperClerk is designed to keep your library on your device. Optical character
-recognition and supported on-device AI extraction run on your device. PaperClerk
-does not send your library to a MLOGICTECH-operated server. If you turn on a sync
-option, PaperClerk transfers the records and files needed for that option to the
-cloud account or network folder you choose. Those copies are stored and governed by
-the provider you selected.
+PaperClerk is designed to keep your library on your device on every platform,
+including Windows. Optical character recognition and supported on-device AI
+extraction run on your device. PaperClerk does not send your library to a
+MLOGICTECH-operated server. If you turn on a sync option, PaperClerk transfers the
+records and files needed for that option to the cloud account or network folder you
+choose. Those copies are stored and governed by the provider you selected.
 
 PaperClerk does not require a PaperClerk account. Signing in to Google or Microsoft
 is only needed when you choose a provider that uses that account for sync.
@@ -33,9 +33,10 @@ categories, reports and related preferences. These items are stored in the app's
 local database and file storage so you can organize, search, review and export your
 library.
 
-OCR and supported AI extraction are performed on the device. PaperClerk does not
-upload a document for OCR or AI extraction. You should review extracted information
-before relying on it.
+OCR and supported AI extraction are performed on the device on every platform. On
+Windows, PaperClerk uses an on-device OCR engine and local models. PaperClerk does
+not upload a document for OCR or AI extraction. You should review extracted
+information before relying on it.
 
 ### Optional Android payment-notification capture
 
@@ -44,7 +45,8 @@ Notification Access permission. When enabled, PaperClerk checks notification tex
 against your capture rules and can create a local expense draft. The text and draft
 remain on your device, are not sent to MLOGICTECH, and are not included in sync.
 You can turn off capture or revoke Notification Access in Android settings and
-delete drafts from PaperClerk.
+delete drafts from PaperClerk. Payment-notification capture is not available on
+Windows.
 
 ### Sync connection information
 
@@ -54,15 +56,15 @@ name or email address, folder or share location, and locally held authorization 
 connection credentials. This information is not sent to MLOGICTECH. Google and
 Microsoft sign-in and authorization are handled through their services; the app
 uses the authorization needed to access the sync location you selected. SMB
-credentials are used to connect to the network share you selected. MLOGICTECH does
-not receive these connection details on its own servers.
+credentials are used to connect to the network share you select, including on
+Windows. MLOGICTECH does not receive these connection details on its own servers.
 
 ### Purchase status
 
-Pro purchases are processed by the Apple App Store or Google Play. PaperClerk reads
-the resulting entitlement status on your device to enable the features you bought.
-MLOGICTECH does not receive your payment card number or billing credentials and
-does not operate a purchase-validation server for PaperClerk.
+Pro purchases are processed by the Apple App Store, Google Play, or the Microsoft
+Store. PaperClerk reads the resulting entitlement status on your device to enable
+the features you bought. MLOGICTECH does not receive your payment card number or
+billing credentials and does not operate a purchase-validation server for PaperClerk.
 
 ## 2. Optional sync and where copies are stored
 
@@ -73,9 +75,9 @@ depend on your platform:
 |---|---|---|
 | Apple CloudKit | iOS, iPadOS, macOS | Library records and associated document files to your private PaperClerk CloudKit database, for syncing between your Apple devices. |
 | iCloud Drive mirror | iOS, iPadOS, macOS | A browseable copy of supported library files and database exports to your iCloud Drive. The mirror is not an in-app restore source. |
-| Google Drive | iOS, iPadOS, macOS, Android | Sync records, database data and associated document files to the PaperClerk location in the Google Drive account you authorize. |
-| OneDrive | iOS, iPadOS, macOS, Android | Sync records, database data and associated document files to the PaperClerk location in the OneDrive account you authorize. |
-| SMB network share | iOS, iPadOS, macOS, Android | Sync records, database data and associated document files to the folder on the network share you select. |
+| Google Drive | iOS, iPadOS, macOS, Android, Windows | Sync records, database data and associated document files to the PaperClerk location in the Google Drive account you authorize. |
+| OneDrive | iOS, iPadOS, macOS, Android, Windows | Sync records, database data and associated document files to the PaperClerk location in the OneDrive account you authorize. |
+| SMB network share | iOS, iPadOS, macOS, Android, Windows | Sync records, database data and associated document files to the folder on the network share you select. |
 
 Sync may include your document and expense records, commitments and payment
 records, imported file contents, filing settings and related sync metadata needed
@@ -110,18 +112,20 @@ You can use a manual exchange rate instead.
 
 ### Platform services
 
-The app uses Apple StoreKit or Google Play Billing for purchases, and the relevant
-Google or Microsoft authorization service when you connect those providers. These
-services process information under their own terms and privacy policies. PaperClerk
-does not include in-app advertising or a third-party analytics or crash-reporting
-service.
+The app uses Apple StoreKit, Google Play Billing, or the Microsoft Store for
+purchases, and the relevant Google or Microsoft authorization service when you
+connect those providers. These services process information under their own terms
+and privacy policies. PaperClerk does not include in-app advertising or a
+third-party analytics or crash-reporting service.
 
 ## 4. Storage, security, and privacy controls
 
 PaperClerk stores its database, imported files, settings, and any pending local
-drafts in app-managed storage on your device. The operating system's app sandbox
-and the security configuration of your device apply to local data. Use a device
-passcode and keep your operating system up to date.
+drafts in app-managed storage on your device. On Windows, local data is kept in your
+user app-data folder, and documents are filed into a folder you choose on your PC
+(by default, a PaperClerk folder under your Documents). The operating system's app
+sandbox and the security configuration of your device apply to local data. Use a
+device passcode and keep your operating system up to date.
 
 The **Hide amounts** option masks amounts in supported parts of the app until you
 unlock them. This is a display and access control; it does not encrypt the database
@@ -135,8 +139,10 @@ guarantee the security of a provider, server, network, or device you control.
 
 PaperClerk has no MLOGICTECH-hosted user account or central library to delete. You
 can remove records and files in the app, clear pending local drafts, or delete the
-app and its local data using your device's controls. Before deleting the app,
-export or back up anything you want to keep.
+app and its local data using your device's controls. On Windows, use **Windows:**
+Settings → Apps → Installed apps → PaperClerk → Uninstall. Documents already filed
+into a folder you chose remain in that folder; delete them separately if you want
+them removed. Before deleting the app, export or back up anything you want to keep.
 
 For synced data, delete the relevant PaperClerk folder or files in the provider's
 service as well. Provider recycle bins, version history, snapshots, backups, and

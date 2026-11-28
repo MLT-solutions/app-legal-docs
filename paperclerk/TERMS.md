@@ -1,14 +1,15 @@
 # Terms of Service — PaperClerk
 
-**Last Updated:** November 25, 2026
+**Last Updated:** November 28, 2026
 
 **Developer / Provider:** MLOGICTECH (Modern Logic Tech Solutions)
 
 **Contact:** [support@mlogictech.com](mailto:support@mlogictech.com)
 **App Website:** https://mlt-solutions.github.io/app-legal-docs/paperclerk
 
-These terms apply to PaperClerk for iOS, iPadOS, macOS, and Android. The features
-available to you depend on your platform, app version, region, and purchase.
+These terms apply to PaperClerk for iOS, iPadOS, macOS, Android, and Windows. The
+features available to you depend on your platform, app version, region, and
+purchase.
 
 ## 1. Which license and store terms apply
 
@@ -22,6 +23,14 @@ MLOGICTECH grants you the license described below. Google Play's
 [Terms of Service](https://play.google.com/intl/en_en/about/play-terms/?hl=en)
 and applicable Google Payments terms govern purchases and billing through Google
 Play.
+
+**Microsoft Store copies.** For the Windows app distributed through the Microsoft
+Store, the license supplied with your copy governs use of the app. Microsoft's
+Standard Application License Terms apply when the app comes without a separate
+license. This page describes the Windows offer and support alongside that license.
+The [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement) and
+applicable Microsoft Store terms govern your use of the store and your purchases
+there.
 
 If these terms conflict with the applicable store license, store purchase terms,
 or mandatory consumer law, those terms and laws control to the extent of the
@@ -48,32 +57,40 @@ Lifetime purchase. The available plans, localized price, billing period, trial o
 introductory offer, and renewal details are shown by the applicable store before
 you confirm a purchase. Any trial is subject to the store's offer terms and
 eligibility rules. If a trial converts to a paid subscription, the store will
-charge the price shown at purchase unless you cancel before the trial ends.
+charge the price shown at purchase unless you cancel before the trial ends. On
+Windows, the Microsoft Store processes payment and licensing for any Pro plan you
+buy, including a monthly subscription, an annual subscription, or a Lifetime
+purchase where offered.
 
 ### Subscriptions
 
-Apple or Google processes and manages your subscription. Subscriptions renew
-automatically for the displayed billing period unless you cancel through your
+Apple, Google, or Microsoft processes and manages your subscription. Subscriptions
+renew automatically for the displayed billing period unless you cancel through your
 store account before the renewal deadline shown by that store. You can manage or
-cancel through your Apple Account subscription settings or Google Play
-subscriptions settings. The store's billing and cancellation terms apply. Any
-mandatory refund or cancellation rights remain available under applicable law.
+cancel through your Apple Account subscription settings, Google Play subscriptions
+settings, or Microsoft account subscription settings. The store's billing and
+cancellation terms apply. Any mandatory refund or cancellation rights remain
+available under applicable law.
 
 ### Lifetime purchase
 
 A Lifetime purchase is a one-time, non-consumable purchase with no recurring
 subscription charge. It unlocks the Pro entitlement for the store account used to
 buy it, subject to the applicable store license and continued availability of
-PaperClerk. It does not transfer between Apple App Store and Google Play purchases.
+PaperClerk. It does not transfer between Apple App Store, Google Play, and
+Microsoft Store purchases.
 
 ### Restoring purchases and refunds
 
 Use PaperClerk's restore or refresh purchase option, where available, and the same
-Apple Account or Google Play account used for the purchase to restore an eligible
-entitlement. Apple and Google handle payments and refunds under their policies. For
-Apple purchases, visit [reportaproblem.apple.com](https://reportaproblem.apple.com/).
-For Google Play purchases, use [Google Play's refund help](https://support.google.com/googleplay/answer/15574897)
-or contact us for help. Your mandatory rights are not limited by this section.
+Apple Account, Google Play account, or Microsoft account used for the purchase to
+restore an eligible entitlement. Apple, Google, and Microsoft handle payments and
+refunds under their policies. For Apple purchases, visit
+[reportaproblem.apple.com](https://reportaproblem.apple.com/). For Google Play
+purchases, use [Google Play's refund help](https://support.google.com/googleplay/answer/15574897)
+or contact us for help. For Microsoft Store purchases, follow
+[Microsoft's instructions for requesting an app refund](https://support.microsoft.com/en-us/accounts-billing/subscriptions/get-a-refund-for-apps-and-games-purchased-from-microsoft-store).
+Your mandatory rights are not limited by this section.
 
 ## 4. Your documents and data
 
@@ -94,8 +111,9 @@ You may use PaperClerk without cloud sync. If you enable a sync option, you dire
 PaperClerk to transfer the library data and document files needed for sync to the
 provider or network folder you select. Depending on your platform, options may
 include Apple CloudKit, an iCloud Drive mirror, Google Drive, OneDrive, or an SMB
-network share. Android supports Google Drive, OneDrive, and SMB. Available options
-may vary by platform and version.
+network share. Android and Windows support Google Drive, OneDrive, and SMB. iCloud
+options are not available on Windows. Available options may vary by platform and
+version.
 
 Cloud and network providers are separate services governed by their own terms and
 privacy policies. You are responsible for choosing a destination you control or
